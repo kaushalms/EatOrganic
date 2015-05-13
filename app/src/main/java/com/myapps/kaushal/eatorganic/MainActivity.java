@@ -38,7 +38,7 @@ public class MainActivity extends SherlockFragmentActivity {
         mDrawerList = (ListView) findViewById(R.id.left_drawer);
 
 
-
+		//second change
         // set a custom shadow that overlays the main content when the drawer
         // opens
         mDrawerLayout.setDrawerShadow(R.drawable.drawer_shadow,
