@@ -82,7 +82,7 @@ public class PageSlidingTabStripFragment extends Fragment {
 
 
         private final String[] TITLES = {"PLANTATION", "GROWING & HARVESTING"};
-
+//just making a minor change
         @Override
         public CharSequence getPageTitle(int position) {
             return TITLES[position];
