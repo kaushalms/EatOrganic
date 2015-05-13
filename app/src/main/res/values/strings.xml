@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eat Organic</string>
+
+    <string-array name="planets_array">
+        <item>	Artichokes	</item>
+        <item>	Asian Greens  	</item>
+        <item>	Asparagus  	</item>
+        <item>	Beans  	</item>
+        <item>	Beets  	</item>
+        <item>	Blackberries  	</item>
+        <item>	Blueberries  	</item>
+        <item>	Broccoli  	</item>
+        <item>	Brussels Sprouts	</item>
+        <item>	Cabbage  	</item>
+        <item>	Carrots  	</item>
+        <item>	Cauliflower	</item>
+        <item>	Celery  	</item>
+        <item>	Cucumbers  	</item>
+        <item>	Dry Beans and Peas	</item>
+        <item>	Eggplant  	</item>
+        <item>	Fennel	</item>
+        <item>	Figs	</item>
+        <item>	Fruit Trees	</item>
+        <item>	Garlic	</item>
+        <item>	Grapes	</item>
+        <item>	Horseradish	</item>
+        <item>	Jerusalem Artichokes	</item>
+        <item>	Kale and Collards	</item>
+        <item>	Kohlrabi	</item>
+        <item>	Leeks	</item>
+        <item>	Lettuce	</item>
+        <item>	Melons	</item>
+        <item>	Okra	</item>
+        <item>	Onions	</item>
+        <item>	Parsnips	</item>
+        <item>	Peanuts	</item>
+        <item>	Peas  	</item>
+        <item>	Peppers	</item>
+        <item>	Potatoes	</item>
+        <item>	Pumpkins	</item>
+        <item>	Radishes	</item>
+        <item>	Raspberries	</item>
+        <item>	Rhubarb	</item>
+        <item>	Shallots	</item>
+        <item>	Sorghum	</item>
+        <item>	Sorrel	</item>
+        <item>	Spinach  	</item>
+        <item>	Stevia  	</item>
+        <item>	Strawberries  	</item>
+        <item>	Summer Grain Crops  	</item>
+        <item>	Summer Squash	</item>
+        <item>	Sweet Corn	</item>
+        <item>	Sweet Potatoes	</item>
+        <item>	Swiss Chard	</item>
+        <item>	Tomatoes	</item>
+        <item>	Turnips and Rutabagas	</item>
+        <item>	Winter Grains	</item>
+        <item>	Winter Squash  	</item>
+
+    </string-array>
+
+
+    <string-array name="plantation">
+        <item>Start artichoke seeds indoors in late winter, under bright florescent lights. The large
+            seeds will germinate within a week at warm room temperatures,and seedlings should be potted
+            into larger containers as they grow. Six weeks before your last frost date, start hardening
+            off seedlings by gradually exposing them to bright sun, wind and cool temperatures. \n\n
+            Set artichoke plants out in prepared beds 3 to 4 weeks before your last frost date. Exposure to cool
+            temperatures below 45 degrees is necessary to trigger flowering. Before transplanting artichokes,
+            enrich each planting hole with a balanced organic fertilizer, and space plants 3 feet apart.
+            Globe artichokes have average fertility needs, similar to those of tomatoes. In areas where artichokes are grown
+            as perennials, container or bare-rooted plants can be set out in spring.  When setting out artichoke
+            seedlings, plant them slightly high, so that the crown is well above the soil line.</item>
+
+
+        <item>In late summer (six to 12 weeks before your  first fall frost), sow seeds indoors or
+            direct-sow them in the garden if the weather is hot and dry. Transplant seedlings when
+            they are four weeks old. Some Asian greens can also be grown in spring, but because spring
+            crops are prone to bolting, be sure to choose bolt-resistant varieties, which will hold in
+            the spring garden about 10 days longer than other varieties. All Asian greens grow best in moist,
+            fertile, well-drained soil with a pH between 6.0 and 6.5. Choose a sunny site, loosen the soil to
+            at least 12 inches deep, and thoroughly mix in a layer of mature compost. Sow seeds about 2 inches
+            apart and a quarter inch deep, then water well to settle the seeds into the soil. After seeds germinate
+            (often in less than five days), gradually thin them to proper spacing. Large Chinese cabbage,
+            Chinese broccoli and flowering mustard should be thinned to 14 inches apart, but small
+            bok choy plants do well with just 6 inches between plants.</item>
+
+
+
+        <item>Plant asparagus crowns (dormant roots of  1-year-old plants) in spring at about the same
+            time you would plant potatoes, but don’t rush to plant them if your soil is still cold. A few
+            varieties, such as open-pollinated ‘Purple Passion’ and hybrid ‘Sweet Purple,’ can be grown
+            from seed. Start seeds indoors in spring and set out the seedlings when they are 12 to 14
+            weeks old, just after your last spring frost. Start with asparagus crowns, however, to
+            eliminate the year of tedious weeding that comes with starting from seed. Choose a site
+            with fertile soil that’s clear of perennial weeds and grasses. A single row of asparagus
+            plants set 15 inches apart will fill in to form a 24- inch-wide bed, or you can grow a
+            double row in a 36-inch-wide bed. Locate asparagus along the back or side of your garden,
+            as 5-foot-tall asparagus fronds will shade any nearby plants. A bed of 25 mature plants
+            will produce about 10 pounds of asparagus per year.\n\n
+            Asparagus craves phosphorus, which is usually abundant in composted manure and in compost
+            made from kitchen waste. Add a 2-inch layer of rich, weed-free compost to your soil before
+            planting. Dig a trench 4 inches deep and 10 inches wide in the amended soil and arrange the
+            crowns in the bottom, about 15 inches apart. Refill the trench without stepping on the bed.</item>
+
+
+        <item>Bean seeds germinate best when soil  temperatures range between 60 and 70 degrees Fahrenheit.
+            In spring, sow seeds in fertile, well-worked soil starting on or after your last frost date.
+            When growing fast-maturing bush snap beans, make additional plantings at three-week intervals
+            until midsummer. Prepare the planting bed by using a garden fork to loosen the soil. Mix in
+            a 1-inch layer of mature compost. Plant seeds 1 inch deep and 2 to 4 inches apart. Thin bush beans
+            to 4 inches apart; thin pole beans to 6 inches apart. Wide double rows (two parallel rows of beans
+            planted 12 to 14 inches apart) are the most space-efficient way to grow beans.</item>
+
+
+        <item>Begin planting beet seeds directly in the garden one month before your last spring frost date,
+            followed by a second planting two to three weeks later. Beet seeds can germinate in cool soil,
+            but they sprout best when soil temperatures are above 50 degrees Fahrenheit.
+            Start planting beets for fall harvest 10 to 12 weeks before your expected first fall frost.
+            Cultivate the planting site and mix in a 1-inch layer of cured compost and a standard application
+            of organic fertilizer. As long as your soil is not alkaline, you can also mix in a sprinkling of
+            wood ashes for additional potassium, which will support more vigorous beet growth. All beets grow
+            best in fertile soil with a pH between 6.2 and 7.0. Water the prepared bed, and plant beet seeds
+            half an inch deep and 2 inches apart, in rows spaced 12 inches apart.\n
+            Beet seeds germinate in five to 10 days if kept constantly moist. Repeated watering can cause
+            some soils to crust on the surface, which can inhibit the emergence of seedlings. Cover seeded
+            rows with boards or burlap for a few days after planting to reduce surface crusting. This technique
+            is also useful when planting beets for fall harvest in warm summer soil. Just be sure to remove the
+            covers as soon as the beet seedlings break the surface.\n\n
+            Beet seeds are actually capsules with two or more seeds inside, so thinning is essential to growing
+            plump roots. Relieve early crowding by snipping out the weaker seedlings soon after germination.
+            A week later, thin seedlings to 3 to 4 inches apart.\n</item>
+
+
+        <item>Growing blackberries is easy in a sunny to partially shaded spot that has well-drained soil
+            with a pH between 6.0 and 6.5. Enrich the site with plenty of organic matter so that the top 6
+            inches of soil will retain moisture well. In garden-size plantings, allow 4 feet between erect
+            and semi-trailing blackberry plants, or 6 to 8 feet between trailing varieties. Single plants
+            of very productive varieties such as ‘Triple Crown’ can be grown on an upright pillar, or you
+            can plant two or three plants together in a mound. Plant crowns about 3 inches deep, and water well.</item>
+
+
+        <item>Late winter or early spring, during the six weeks prior to your last spring frost, is the best
+            time for planting blueberries. Young container-grown plants may be set out later but need time
+            to grow roots before hot weather. Blueberries are only marginally self-fertile, so you’ll need
+            to grow at least three plants of compatible varieties. Choose a sunny, well-drained site that
+            has an acidic pH for growing blueberry bushes. Young blueberry plants need an abundance of
+            organic matter in the soil’s shallowest layers. Most soils should be amended with 4 inches
+            of acidic organic matter, such as rotted sawdust or leaf compost. Preparing the site in fall
+            will help the organic matter settle into the soil, which will enhance transplant survival in
+            spring. If your soil’s natural pH ranges between 5.5 and 6.0, you can further acidify it by
+            top-dressing with soil sulfur twice a year. In areas with soil pH levels above 6.0, grow
+            blueberries in large containers filled with a wood chip- or bark-based planting mixture.\n\n
+
+        Spacing recommendations for growing blueberries range from 12 inches between plants for lowbush
+            blueberries to 12 feet between saskatoons. Allow 4 feet between highbush blueberry plants
+            and 6 feet between rabbiteyes. Set plants at the same depth they grew in their pots. Water
+            thoroughly, and mulch the soil’s surface with at least 2 inches of acidic mulch, such as
+            wood chips. Cut back to ground level all but the two most vigorous upright shoots.\n</item>
+
+
+        <item>For a summer harvest, start seeds indoors six weeks before your last spring frost, and
+            set out hardened-off seedlings when they’re about four weeks old. You can also seed broccoli
+            directly into a nursery bed and transplant the seedlings to your garden. Direct-sow broccoli
+            raab starting three weeks before your last frost. For a fall harvest, start seeds indoors
+            12 to 14 weeks before your first fall frost, and set the seedlings out when they’re four
+            to six weeks old. Direct-sow broccoli raab starting eight weeks before your first fall frost.
+            Broccoli is a heavy feeder, and plants take up nutrients best when the soil pH is between
+            6.0 and 7.0. \n\nChoose a sunny site with fertile, well-drained soil. Loosen the planting bed
+            and mix in up to 1 inch of mature compost. Unless your soil is very fertile, also mix in
+            a high-nitrogen organic fertilizer such as alfalfa meal or composted poultry manure. Water
+            the bed thoroughly before setting out seedlings. Allow 18 to 20 inches between plants.
+            Dwarf varieties can be planted 12 inches apart.\n</item>
+
+
+        \n<item>Unlike cabbage and broccoli, growing Brussels sprouts is seldom successful from plants
+            set out in spring. Hot weather that arrives just as spring-planted sprouts start sprouting
+            ruins their flavor and texture, and the plants become magnets for insects.
+            It is much better to wait until late spring or early summer to start Brussels sprout seeds.
+            Recommended seeding dates for a few locations include March 30 in Rhode Island, May 15 in
+            New York, June 5 in West Virginia, and July 1 in Alabama. Harden off the seedlings before
+            setting them out in well-prepared soil, and plan to cover them with lightweight row cover
+            or tulle to exclude insect pests.\n\n
+            Brussels sprouts are heavy feeders that demand moist, fertile soil with a pH between 6.0 and 7.0.
+            The ideal soil texture for Brussels sprouts is clay, because tight clay helps hold the roots firm
+            when the large plants are blown by harsh winds. Mix in a generous application of a balanced organic
+            fertilizer before planting, and use a biodegradable mulch of grass clippings or coarse compost to
+            insulate the roots from summer’s heat.\n</item>
+
+
+        <item>In spring, start seeds indoors or in a cold frame eight to 10 weeks before your last spring frost,
+            and set out hardened-off seedlings when they are about 6 weeks old. Seeds germinate best
+            at 65 to 75 degrees Fahrenheit.\n\n
+            In summer, start seeds 12 to 14 weeks before your first fall frost, and transplant the
+            seedlings to the garden when they are 4 to 6 weeks old. Plant early and late varieties to
+            stretch your harvest season. Growing cabbage plants requires regular feeding and abundant sun.
+            Choose a sunny, well-drained site with fertile soil that has a pH between 6.0 and 6.5.\n\n
+            Loosen the planting bed and mix in a 2-inch layer of compost along with a standard application
+            of a balanced organic fertilizer or well-composted manure. Water the fertilized bed thoroughly
+            before setting out seedlings. Allow 18 to 20 inches between plants for 4-pound varieties; larger
+            varieties may need more room. Varieties that will produce heads that weigh less than 2 pounds
+            (check your seed packet) can be spaced 12 inches apart.</item>
+
+
+        <item>In the spring, sow carrot seeds in fertile, well-worked soil about two weeks before your last frost date.
+            In cool climates, continue planting every three weeks until midsummer. In summer, begin sowing seeds for
+            fall and winter carrots 10 to 12 weeks before your average first fall frost.</item>
+
+
+        <item>Unlike cabbage and broccoli, cauliflower can rarely be grown successfully from plants set out
+            in spring. Hot weather that arrives just as spring-planted cauliflower heads up ruins its flavor
+            and texture, and the plants become magnets for insects. A much better planting schedule is to wait
+            until late spring or early summer to start cauliflower seeds.\n \n Harden off the seedlings before setting them out
+            in well-prepared soil, and plan to cover them with lightweight row cover or tulle to exclude insect pests.
+            Cauliflower plants are heavy feeders that demand moist, fertile soil with a pH between 6.0 and 7.0.
+            Mix in a generous application of a balanced organic fertilizer before planting, and allow at least
+            24 inches between plants (because tight spacing will lead to small heads). Use a biodegradable mulch
+            of grass clippings or coarse compost to insulate the roots from summer heat.</item>
+
+
+        <item>Celery seeds of all types are small and may germinate erratically. Start them in doors
+            or in a greenhouse 10 to 12 weeks before your last spring frost and give them bright light.
+            Seedlings that have more than five leaves can be hardened off and set out when average night
+            temperatures are above 55 degrees Fahrenheit. Exposure to cold for more than a week can trigger
+            plants to bolt and produce seeds. In hot summer areas with mild winters, start seeds indoors in
+            late summer and set them out in early fall.\n \n Plants should be ready to harvest about 90 days
+            after you put your seedlings in the ground.Choose a sunny site that is convenient to water,
+            because celery requires constant moisture. If possible, allow space between rows for a shallow
+            trench that can be flooded with water in dry weather. Dig in a 1-inch layer of rich compost and
+            a standard application of a high-nitrogen organic fertilizer, such as dried poultry manure,
+            and water well. Wait at least three days before planting seedlings 12 to 14 inches apart.
+            Before hot weather comes, mulch between plants with grass clippings or another organic mulch
+            to keep the soil cool and moist.</item>
+
+
+        <item>Sow seeds directly into prepared rows or hills one to two weeks after your last
+            spring frost, and make a second planting a month later. Where summers are short and cool,
+            start seeds indoors under bright fluorescent lights two weeks before your last spring frost.
+            If kept moist and warm (above 70 degrees Fahrenheit), cucum­ber seeds should sprout within
+            five days. Set out 3- to 4-week-old seedlings after your last frost has passed. Choose a
+            sunny site with fertile, well-drained soil with a pH between 6.0 and 6.5. Grow cucumbers in rows
+            or hills spaced 6 feet apart, or try increasing yields by training vines up a vertical trellis.
+
+            \n\nMix a 2-inch layer of rich compost into the planting site, along with a light application
+            of an organic fertilizer. Thoroughly water the soil before plant­ing seeds half an inch deep
+            and 6 inches apart. When the seedlings have three leaves, thin them to 12 inches apart, which
+            is the spacing you should use if transplanting seedlings.</item>
+
+
+        <item>In early spring, sow soup peas in fertile beds four to six weeks before your last frost.
+            All other dry beans and peas are warm-weather crops best sown in late spring and summer.
+            Sow these seeds in fertile soil starting no earlier than two weeks after your last frost date.
+            In areas with long summers, later plantings made in June may have the advantage of ripening
+            during the typically dry weather of early fall, when scant rain reduces chances that pods will rot.
+            In any climate, traditional dry beans with a bush habit can be planted up to 90 days before
+            your first fall frost date.</item>
+
+
+        <item>Start eggplant seeds indoors about six weeks before your last spring frost, or about two
+            weeks after tomatoes and peppers. Eggplant seeds germinate best at temperatures above 75 degrees
+            Fahrenheit. Bottom heat is useful in getting the plants up and growing. Keep these members of
+            the nightshade family growing under bright fluorescent lights for 14 to 16 hours each day,
+            and transplant them to 4-inch containers when they have three leaves. Move plants outdoors on warm,
+            sunny days, but bring them indoors when temperatures drop below 55 degrees. Set out hardened-off
+            seedlings when they are about eight weeks old. When planning your garden, allow one plant per person,
+            as a healthy plant will produce about 5 pounds of eggplant over two months or more. Choose a sunny,
+            well-drained site with fertile soil (pH between 5.5 and 6.5). \n\n To reduce pest problems, choose a spot
+            where nightshade family members (eggplants, tomatoes, potatoes or peppers) have not been grown
+            for at least two years. Two weeks before planting, loosen the planting bed and mix in a 2-inch layer
+            of rich compost along with a standard application of balanced organic fertilizer or composted
+            poultry manure and water well. In cool climates, cover the prepared bed with black plastic film
+            to help warm the soil. Allow 24 inches between plants and plan ahead for stakes or other supports.
+            In most regions you’ll need to cover newly transplanted eggplants with row covers to exclude flea
+            beetles and other pests. Once plants are about 14 inches tall they are tough enough to fend for
+            themselves and at this height you can remove covers to admit pollinators.</item>
+
+
+        <item>Start bulb fennel seeds indoors in early spring, about 8 weeks before your last frost, and set
+            them out under cloches when they have one true leaf. When growing fennel, prepare a fertile,
+            well-drained bed in a spot that is convenient to water, because bulb fennel must have moist soil.
+            Mix a standard application of a balanced organic fertilizer into the soil before setting out plants.
+            Fennel seeds also may be sown directly where they are to grow about three weeks before your last spring frost
+            date. Space plants at least 12 inches apart. Start seeds for a fall planting of bulb fennel in midsummer,
+            and set them out about 8 weeks before your first fall frost date. When growing fennel in fall, harvest
+            bulbs before they are damaged by hard freezes.\n\n
+            Herb fennel is grown just like bulb fennel, but only one or two plants are needed by most households.
+            Perennial fennel plants that are grown to produce fennel fronds and fennel seeds grow quite tall, to 5 feet,
+            so they often are best located near the rear of the garden.</item>
+
+        \n<item>Set out figs in spring, after risk of a hard freeze has passed. Figs grow best in fertile, well-drained
+            soil with a pH between 6.0 and 6.5. Enrich the site with plenty of organic matter so that the top 12 inches
+            of soil will retain moisture well. Allow at least 6 feet between plants, or 15 feet between them in climates
+            where figs grow into trees.\n\n
+            In most climates, figs are most productive when trained to grow as multi-stemmed bushes. Top back the plant
+            by half its size after transplanting to encourage the development of new stems. Mulch figs to suppress weeds
+            and keep the soil moist.</item>
+
+        <item>The best time to plant fruit trees in Zones 3 through 7 is early spring, after the soil has thawed.
+            Fruit trees that are set out just as they emerge from winter dormancy will rapidly grow new roots.
+            In Zones 8 to 10, plant new trees in February. Choose a sunny site with fertile, well-drained soil
+            that’s not in a low frost pocket. Dig a planting hole that’s twice the size of the root ball of the tree.
+            Carefully spread the roots in the hole, and backfill with soil. Set trees at the same depth at which they
+            grew at the nursery, taking care not to bury any graft union (swollen area) that’s on the main trunk.
+            Water well, and install a trunk guard made of hardware cloth or spiral plastic over the lowest section
+            of the trunk to protect it from insects, rodents, sunscald and physical injuries. Stake the tree loosely
+            to hold it steady. Mulch over the root zone of the planted trees with wood chips, sawdust or another
+            slow-rotting mulch. Water particularly well during any dry spells for the first two years.\n\n
+            One year after planting, fertilize fruit trees in spring by raking back the mulch and scratching a balanced
+            organic fertilizer into the soil surface (follow application rates on the product’s label).
+            Then add a wood-based mulch to bring the mulch depth up to 4 inches in a 4-foot circle around the tree.
+            After two years, stop using trunk guards and instead switch to coating the trunks with white latex
+            paint to defend against winter injuries. Add sand to the paint to deter rabbits and voles.</item>
+
+
+        <item>In fall, plant cloves in well-drained beds after the first frost has passed and the soil is cool.
+            Cloves can also be planted in late winter as soon as the soil thaws, but fall-planted garlic
+            produces bigger, better bulbs. Choose a sunny site, and loosen the planting bed to at least 12 inches deep.
+            Thoroughly mix in a 1-inch layer of mature compost. \n\nIn acidic soil, also mix in a light dusting of wood ashes.
+            Wait until just before planting to break bulbs into cloves. Poke the cloves into the ground 4 inches
+            deep and 6 to 8 inches apart, with their pointed ends up. Cover the planted area with 3 to 5 inches of organic mulch,
+            such as hay or shredded leaves.</item>
+
+
+        <item>In spring, set out purchased plants four to six weeks before your last frost, when the plants are
+            emerging from dormancy. Grape varieties grown in containers can be planted up until early summer.
+            Growing grapes in full sun helps develop sweet, full-flavored fruits. Plants can produce fruit for
+            decades if grown in deep, fertile soil that drains well. Before planting, dig out all perennial
+            weeds and amend the soil with at least 2 inches of mature compost or other high-quality organic matter.
+            If your soil tends to be acidic, use light applications of lime or wood ashes to raise the pH levels
+            to between 5.6 and 6.2.\n\n
+
+            Most grapes should be planted 7 to 9 feet apart, with a durable trellis installed at planting time.
+            After planting grapes, water them thoroughly and mulch the area beneath the plants with 2 to 4
+            inches of wood chips or another organic mulch.</item>
+
+        <item>Planting horseradish is best done is spring, whether you begin with crowns from a nursery,
+            or a root from the supermarket. Most households harvest enough horseradish for their needs from
+            two or three plants. Set out roots or crowns a few weeks before your last frost date, in any fertile,
+            well-drained soil. Horseradish grows best in moist, silty soils like those found in river bottomland,
+            but enriched clay or sandy loam with a near neutral pH is acceptable. Situate horseradish roots diagonally
+            in the soil, with the slanted end down and the flat end up. </item>
+
+
+        <item>Plant small, whole tubers in early spring, or as late as you’d plant tomatoes. To get Jerusalem
+            artichokes with big roots, give plants the longest growing season possible. After the first year,
+            small tubers you missed while harvesting will usually shoot up sufficient plants to form a good crop.
+            A hardy, widely adapted perennial, Jerusalem artichokes grow best in well-drained soil with a near-neutral
+            pH of about 7.0. Locate your crop in full sun but behind smaller vegetables, because the 10-foot-tall
+            plants cast ample afternoon shade. A 5-by-5-foot bed (located outside the garden, where its perimeter
+            can be easily mowed) is ideal for this exuberant crop. A 25-square-foot planting can produce more than
+            100 pounds of harvested tubers.\n\n
+            To prepare the site, dig out weeds and grasses, and dig in a 2-inch layer of compost to improve the
+            soil’s structure. Plant small seed tubers 4 to 5 inches deep and 16 inches apart. When the plants are
+            about a foot tall, mulch with grass clippings, rotting leaves, or another organic mulch that will help
+            retain soil moisture.</item>
+
+
+        <item>You can grow kale or collards from seeds sown directly into prepared soil, but especially in
+            spring it’s best to start seeds indoors and set them out under protective cloches four to six weeks
+            before your last spring frost. As long as they are protected from cold winds, kale or collards
+            transplanted into cool soil will quickly establish themselves and start growing.
+            Kale and collard greens grown in spring often become magnets for pests in early summer, so most gardeners
+            pull up the plants and compost them. Then, in July or August, new seedlings are started that
+            will serve as the fall to winter crop.\n\n
+            Recommended seeding dates for growing kale and collards in fall include late June in New Hampshire,
+            early July in Maryland, late July in Alabama, and late August in Arizona. Harden off the seedlings
+            before setting them out in well-prepared soil, and plan to cover them with lightweight row cover or
+            tulle to exclude insect pests and provide a little bit of shade. Kale and collard plants are heavy
+            feeders that grow best in moist, fertile soil with a pH between 6.0 and 7.5. Mix in a generous
+            application of a balanced organic fertilizer before planting, and allow at least 12 inches between plants.
+            Use a biodegradable mulch of grass clippings or coarse compost to insulate the roots from any warm weather.</item>
+
+        <item>For your first spring sowing of kohlrabi, start seeds indoors about six weeks before your last
+            spring frost date. Kohlrabi is not as cold-tolerant as other cabbage family crops, so wait until
+            two weeks before your last frost date to set out seedlings. This is also the best time to direct-sow
+            seeds in a well-prepared bed.\n\n
+            Kohlrabi plants are heavy feeders that demand moist, fertile soil with a pH between 6.0 and 7.5.
+            Micronutrients are important, so take the time to amend the soil with compost and a standard application
+            of a balanced organic fertilizer before planting. Thin or transplant seedlings to 8 inches apart, but
+            allow more space when growing large, vigorous storage varieties. When growing kohlrabi in spring, use
+            a biodegradable mulch of grass clippings or coarse compost to insulate the roots from summer’s heat.\n\n
+            Start seeds of storage varieties in midsummer, at about the same time you would sow broccoli or cabbage
+            for fall harvest. This is usually about 90 days before your average first fall frost date. Harden off the
+            seedlings before setting them out in well-prepared soil, and plan to cover them with lightweight row cover
+            or tulle to exclude insect pests.</item>
+
+        <item>Start leek seeds indoors in late winter provided you can grow them under bright florescent lights.
+            You may also be able to purchase leek seedlings as garden centers or farmers markets in late spring.
+            Harden off seedlings for at least a week before transplanting them to prepared furrows in deeply dug
+            garden beds. Shape 6-inch deep furrows in the cultivated bed, and line the bottom with a standard
+            application of a balanced organic fertilizer. Refill 1 inch of soil, and set out the leek seedlings
+            in the partially refilled furrow, spacing summer leeks 3 inches apart, fall leeks 4 inches apart and
+            winter leeks 6 inches apart. As the leeks gain size, gradually fill in the furrow and then mound a
+            little loose soil over the base of the plants.</item>
+
+
+        <item>In spring, sow lettuce in cold frames or tunnels six weeks before your last frost date.
+            Start more seeds indoors under lights at about the same time, and set them out when they are
+            three weeks old. Direct seed more lettuce two weeks before your average last spring frost date.
+            Lettuce seeds typically sprout in two to eight days when soil temperatures range between 55 and 75 degrees.
+
+            \n\nIn fall, sow all types of lettuce at two-week intervals starting eight weeks before your first fall frost.
+            One month before your first frost, sow only cold-tolerant butterheads and romaines. Prepare your
+            planting bed by loosening the soil to at least 10 inches deep. Mix in an inch or so of good compost
+            or well-rotted manure. Sow lettuce seeds a quarter of an inch deep and 1 inch apart in rows or squares,
+            or simply broadcast them over the bed.\n\n
+
+            Indoors, sow lettuce seeds in flats or small containers kept under fluorescent lights.
+            Harden off three-week-old seedlings for at least two or three days before transplanting.
+            Use shade covers, such as pails or flowerpots, to protect transplants from sun and wind
+            during their first few days in the garden. </item>
+
+
+        <item>Sow muskmelons, honeydew and other Cucumis melo varieties in prepared beds or hills after
+            your last frost has passed, or sow seeds indoors under fluorescent light and set the seedlings
+            out after about three weeks. Direct sow watermelon seeds in late spring or early summer,
+            when your soil feels warm to the touch. In short-season climates, plant watermelon seedlings
+            started indoors to get a jump-start on the growing season.Fertile, well-drained soil is essential to
+            growing great melons. Prepare raised planting hills within wide rows or along your garden’s edge.
+            Space 3-foot-wide hills 5 to 6 feet apart. Loosen the soil in the planting sites to at least 12
+            inches deep. Mix in a 2-inch layer of compost and a light application of organic fertilizer.
+            \n\nMelons love composted manure (from cows, horses or poultry), which eliminates the need for
+            supplemental fertilizer. Use a rake to shape the hills into 6- to 8-inch-high, flat-topped
+            mounds, and water well. Plant six seeds per hill, poking them into the soil 1 inch deep.
+            en days after sowing, thin plants to three per hill. If planting seedlings, set out three
+            seedlings for each hill.\n\n
+            Consider installing protective row covers after you finish planting melons. Row covers benefit
+            melons by raising soil surface temperatures, taming wind and excluding insects. Remove covers
+            a week after plants begin to bloom so insects can pollinate the flowers</item>
+
+        <item>Okra will grow in a range of soil types provided the pH is between 5.8 and 6.8. Maximize
+            sun exposure when growing okra, because this crop cannot tolerate shade. Loosen the soil to
+            at least 12 inches, and mix in a 1 inch layer of compost along with a standard application
+            of a balanced organic fertilizer. \n\nPlant okra in late spring or early summer, two weeks or
+            more after your last frost has passed. Soak hard okra seeds in plain water overnight before
+            planting, and discard any seeds that float to the top. Plant okra seeds 1 inch deep and 4
+            inches apart, spacing rows at least 30 inches apart. When okra seedlings are 4 inches tall,
+            thin them to at least 18 inches apart.\n\n
+            Dwarf okra varieties can be grown in containers that are at least 12 inches in diameter.
+            Three plants will fit into a planter made out of a modified plastic storage bin.</item>
+
+        <item>In late winter, start seeds of all types of onions — bulb onions, leeks, scallions,
+            and shallots — indoors under bright fluorescent lights. Make additional sowings until
+            early spring. Set out bulb onion seedlings three weeks before your last frost, and set
+            out seedlings of non-bulbing onions six weeks before your last frost.\n\n
+            In spring you can also plant sets, which are small, dormant onions. Small sets produce better bulbs
+            than large sets do.In fall, short-day varieties can be planted in many mild winter areas.
+            Seedlings should be ready to set out in mid-October. Choose a sunny site with fertile,
+            well-drained soil, and loosen the planting bed to at least 12 inches deep. Mix in a 1-inch
+            layer of mature compost. Make a 4-inch-deep, V-shaped furrow in the prepared bed. Fill the
+            bottom of the furrow with 1 inch of rich compost or a light dusting of dry organic fertilizer,
+            and then water the prepared furrow. Set out seedlings or sets 3 to 6 inches apart, depending
+            on the plants’ mature size.</item>
+
+
+        <item>Parsnip seeds quickly lose viability after their first year, so buy fresh seed or grow
+            your own seed crop at least every other year. Where summers are short and mild, plant parsnips
+            in late spring, a week or two after the last frost has passed. In other areas it is often best
+            to delay planting until early summer, or about four months before your first fall frost date.
+            One week before planting parsnips, place parsnip seeds on a wet paper towel and enclose it
+            in an airtight container. After five days at room temperature, look for the emergence of pale
+            white sprouts. When the first seeds begin to germinate, plant all of the seeds one-half inch
+            deep and two inches apart in well-prepared beds that have been generously enriched with compost
+            and a standard application of a balanced organic fertilizer. Keep the planting weeded well, and
+            gradually thin parsnips to at least 6 inches apart.</item>
+
+
+        <item>Peanuts grow best in slightly acidic, sandy soil with a pH between 5.8 and 6.2. Plant peanuts
+            at least two weeks after the last frost has passed, when the soil is warm. Wait until just before
+            planting to remove the seeds from the shells. Rather than applying pre-plant fertilizer, it is best
+            to plant peanuts after a heavily fertilized non-legume crop such as corn or cabbage.
+            Sow peanut seeds 2 inches deep and 6 to 8 inches apart, with at least 24 inches between rows.
+            Thin seedlings to 12 inches apart. Peanuts also can be grown in hills, with three plants per
+            3-foot-wide hill. You can interplant peanuts with spring radishes or lettuce to suppress weeds.</item>
+
+        <item>Sow in spring, about one month before your last frost date. Where summers are cool,
+            additional sowings can be made three weeks apart. Peas produce poorly in hot weather, so an early start
+            is always a wise strategy. In climates with mild winters, a second crop can be sown in late summer for
+            harvesting in late fall.All peas benefit from a trellis or other support. Install a 6-foot-tall trellis
+            before planting long-vined varieties. Compact varieties can be staked with woody branches or unemployed
+            tomato cages after they sprout, or you can interplant short-vined peas with oats, which serve as a living support.
+
+            \n\nPrepare a wide planting bed by loosening the soil to at least 10 inches deep while mixing in compost.
+            Do not use fertilizer unless your soil is very poor or low in organic matter. Plant seeds in a double
+            row, with a row of seeds on each side of the trellis. Poke seeds into the prepared site 2 inches apart
+            and 1 inch deep. Thinning is not necessary.</item>
+
+
+        <item>Start seeds indoors under bright fluorescent  lights in early spring, eight to 10 weeks before your
+            last spring frost date. If possible, provide bottom heat to keep the plants’ containers near 80 degrees
+            Fahrenheit. Make sure the seeds stay slightly moist. Seeds should sprout within three weeks. Transfer
+            seedlings to larger containers when they are about six weeks old. Don’t set peppers outside until at
+            least two weeks after your average last frost date, during a period of warm weather. (To find your last
+            spring frost date, see Know When to Plant What: Find Your Average Last Spring Frost Date.) Always harden
+            off seedlings by gradually exposing them to outdoor weather a few hours each day for at least a week before
+            transplanting them outdoors. \n\nAll peppers grow best under warm conditions, but gardeners in cool climates
+            can keep peppers happy by using row covers. Choose a sunny site that has fertile, well-drained soil with
+            a pH between 6.0 and 6.5. Loosen the planting bed to 12 inches deep, and thoroughly mix in a 1-inch layer
+            of mature compost. Dig planting holes 12 inches deep and at least 18 inches apart, and enrich each with a
+            spadeful of additional compost. Partially refill the holes, and situate plants so they are planted slightly
+            deeper than they were in their containers. Water well.</item>
+
+        <item>In climates with short springs and hot summers, plant the early and midseason varieties three to
+            four weeks before your last spring frost date. In climates with long springs and hot summers,
+            plant early and midseason varieties three to four weeks before your last spring frost date;
+            plant late-maturing varieties in early summer so they will mature in the cooler fall.\n\n
+            In climates with cool summers, plant early, midseason and late varieties two to three weeks
+            before your last spring frost date. Prepare the planting bed by loosening the soil to at least
+            10 inches deep. Potatoes adapt well to acidic soils with a pH below 6.0, which is lower than what
+            is preferred by many other vegetable crops. Thoroughly mix in a layer of compost or rotted leaves,
+            along with a half-ration of alfalfa meal, soybean meal or another high-nitrogen organic fertilizer
+            (follow label directions). Do not use manure because it is correlated with an increase in rough
+            patches on spud skins.\n\n
+            Two days before planting, cut the seed potatoes into pieces, so that each piece has two to
+            three buds (or “eyes”). Cutting the seed potatoes and letting the cut pieces dry for about
+            two days reduces the risk of rotting. Work carefully if the eyes have already grown into sprouts.
+            Allow the cut pieces to dry in a well-ventilated room. Plant the pieces 12 inches apart in 4-inch
+            deep furrows; cover the seed pieces with 2 inches of soil. Fill in the furrows after the first
+            sprouts emerge.</item>
+
+        <item>Sow pumpkin seeds directly into prepared beds or hills in late spring, after your last frost.
+            Or, try what many gardeners in cool climates do, and set out 3-week-old seedlings in late spring.
+            In Zone 6 and warmer, delay planting pumpkins until early summer to use space vacated by spring crops,
+            and use container-grown seedlings to get summer-planted pumpkins growing on time.\n\n
+
+            Stop planting pumpkins 14 weeks before your first fall frost. Choose a sunny site with fertile,
+            well-drained soil and a pH level between 5.8 and 6.8. Moschata pumpkins need little pest protection,
+            so many gardeners grow them in an old compost pile that includes composted manure. Other types of
+            pumpkins benefit from the pest protection of floating row covers for at least six weeks after planting,
+            in which case it is most practical to start them in a row, spacing plants 3 feet apart
+            (large-fruited pumpkin varieties may need more room). As you prepare planting holes, mix in a 2-inch
+            layer of mature compost and a light application of a balanced organic fertilizer. Water well.
+            Plant two seeds (or one seedling) in each prepared hole. Install protective row covers over your
+            pumpkins immediately after you plant them. Expect pumpkin vines to run at least 8 feet.</item>
+
+        <item>In spring, sow salad radishes at 10-day intervals starting two weeks before your average
+            last spring frost, continuing to three weeks after your last frost date. Sow rat-tail radishes
+            around your last spring frost date.\n\n
+            In fall, sow all types of radishes at two-week intervals starting eight weeks before your
+            first fall frost, continuing up until three weeks before your first frost date.When preparing
+            the planting bed, loosen the soil 6 to 10 inches deep, and mix in good compost or well-rotted manure.
+            Sow seeds a half inch deep and 1 inch apart, in rows spaced 12 inches apart. After the seedlings appear,
+            thin salad radishes to 3 inches apart; thin oriental radishes to 8 to 10 inches apart. Seeds typically
+            sprout in three to seven days when sown in 60-degree soil.</item>
+
+        <item>In spring, set out dormant, bare-root plants four to six weeks before your last frost.
+            Raspberry plants grown in containers should be planted after danger of frost has passed
+            through early summer. Set plants 1 inch deeper than they grew in their nursery containers.
+            Raspberries need some afternoon shade if grown in hot climates, but in most regions, full
+            sun is key to growing raspberries with rich, sweet flavor. Raspberries can produce for many
+            years if grown in fertile, weed-free soil that drains well and has a pH of about 6.0. Before
+            planting, dig out all perennial weeds and amend the soil with at least 2 inches of mature
+            compost or other high-quality organic matter. Use a digging fork to loosen dense subsoil to
+            improve drainage.\n\n
+            If your soil is acidic, use light applications of lime or wood ash to raise the pH.
+            (Take care, though, as a pH above 7.0 can render raspberries unable to take up iron and manganese.)
+            Red and golden raspberries have a bushy growth habit and grow well on a garden fence or trellis.
+            Black and purple raspberries need more space and are best grown as a thicket with a mowed
+            perimeter.</item>
+
+        <item>Instead of seeds you should buy rhubarb plants, which won’t cost much because you need
+            only a few. As a general rule, allow only one plant per person in your household unless
+            you have space to spare for these big plants, which mature to 4 to 5 feet across.
+            Planting rhubarb is best done in spring, around your last frost date. Plant in moist,
+            fertile soil in full sun to partial afternoon shade, but note that rhubarb plants can
+            be moved at other times of the year if soil is kept packed around their roots. Space plants
+            4 to 5 feet apart, or use them as a focal points dotted around your garden’s boundary.
+            Enrich planting holes generously with compost as well as a standard application of a balanced
+            organic fertilizer when planting rhubarb.</item>
+
+
+        <item>Fall planting works well when growing shallots from cloves that are showing signs of
+            breaking dormancy, or you can wait until first thing in spring. Fall planting is recommended
+            with gray shallots, which often break dormancy in fall.\n\n
+            Red and gold shallots, particularly those grown from seed, are in a state of deep dormancy
+            in the fall, so it is usually best to wait until early spring to plant them. Seed-sown shallots
+            grown as annuals should be started indoors under lights in late winter, so that sturdy seedlings
+            are ready to set out four to six weeks before your last frost. Though they start out growing slowly,
+            shallot seedlings are sturdy, fast-growing plants compared with bulb onion seedlings.
+            \n\nHarden off shallot seedlings for at least a week before transplanting them to prepared furrows
+            in deeply dug garden beds. Shape 6-inch-deep furrows in a cultivated bed, and line the bottom
+            with a standard application of a balanced organic fertilizer. Refill 3 inches of soil, and set
+            out the seedlings 8 inches apart in all directions. </item>
+
+
+        <item>There is no rush to plant sorghum, which needs warm soil to germinate and grow. Even in warm
+            climates, sorghum is customarily planted in late May or early June.\n\n
+            Prepare soil much as you would for corn, and be sure to mix a balanced organic fertilizer into
+            the bed or row before planting. Unlike corn, sorghum is self-fertile, so a large plot is not
+            needed for pollination purposes. Sow seeds one-half inch deep and 4 inches apart, and thin to
+            8 inches apart when the seedlings are 4 inches tall.</item>
+
+
+        <item>Sorrel can be grown from seeds started indoors in early spring, or you can purchase a plant
+            from a nursery. After established, one or two plants will grow into a patch that will produce
+            enough sorrel for most households. Set out plants in spring, around your last frost date,
+            in any fertile, well drained soil. Sorrel plants tolerate light frosts.</item>
+
+
+        <item>In late winter, beginning six weeks before your average last spring frost date, start seeds
+            indoors or beneath a protective frame outdoors. Make two additional spring sowings at three-week
+            intervals.\n\n
+            In summer, skip spinach and try the warm-weather alternatives. In fall, six to seven weeks before your first
+            fall frost date, sow your main crop for fall harvest.\n\n
+            About four weeks before your first fall frost date, sow winter spinach in a place where the seedlings
+            can be covered in frigid weather with glass, plastic or a thick row cover. This planting will mature
+            in early spring.</item>
+
+        <item></item>
+
+        \n<item>Growing strawberries requires sun and  acidic soil with a pH between 5.5 and 6.5. Plant
+            strawberries as early as six weeks before your last frost. Use row covers to protect new
+            plantings from extreme cold and wind. You can also set out plants in fall, which is a common
+            practice where winters are mild. Choose a sunny, fertile site free of perennial weeds.
+            A strawberry patch will produce well for three to four years, so enrich the site with plenty
+            of organic matter. Raised beds or planters are ideal for most types of strawberries,
+            plus they make the berries easier to pick.\n\n
+            A few varieties can be grown from seed, but most gardeners save one to two years’ growing
+            time by setting out individual container-grown plants or dormant bare-root plants sold in bunches.
+            Transplant individual plants to the same depth they grew in their containers. Spread out bundled
+            plants and trim off any dead leaves and roots. Find the central crown, and transplant so the base
+            of the crown rests at the soil line and the roots are spread out. Mulch between all strawberry
+            plants with pine needles, chopped leaves or another mulch that supports acidic soil conditions.
+
+            \n\nSpace requirements vary by strawberry type and variety. Those that produce a lot of vigorous
+            runners should be planted 18 inches apart (they will fill in most of the vacant space by late summer).
+            Plant alpine strawberries that do not produce runners — such as ‘Mignonette’ — 12 inches apart
+            in beds or 8 inches apart in containers.</item>
+
+
+        <item>Growing buckwheat and oats is an excellent practice if your soil is in the early stages of
+            organic improvement, because these crops will grow fast and smother weeds if grown in broad swaths.
+            Start sowing seeds of these summer grain crops in late spring, after your last frost has passed
+            and the soil has warmed. Cultivate the soil to remove weeds and rocks, and mix in a standard
+            application of a balanced organic fertilizer before planting buckwheat or hulless oat seeds a
+            bout 2 inches apart. When the plants are 4 inches tall, hoe to remove weeds, and thin the
+            plants to 6 inches apart.\n\n
+            Corn, pearl millet and sunflowers grow into large plants that benefit from fertile, well-drained soil.
+            Grow these summer grain crops much as you would sweet corn. Enrich planting furrows with an organic
+            fertilizer, and space rows at least 18 inches apart. Thin corn and sunflower plants to at
+            least 14 inches apart. Grow pearl millet at a tighter spacing, about 10 inches apart.</item>
+
+        <item>Sow summer squash seeds in prepared  beds or hills in spring after all danger of frost has passed.
+            You can also sow seeds indoors under fluorescent lights and then set out the seedlings when they’re
+            3 weeks old. In Zone 5 and warmer, you can sidestep early-season squash bugs by delaying the planting
+            of seedlings until early summer. Stop planting summer squash 12 weeks before your average first fall
+            frost date. Choose a sunny site with fertile, well-drained soil with a pH between 6.0 and 6.5 for
+            growing summer squash. Spots that were previously occupied by compost piles are especially desirable,
+            or you can dig two heaping spadefuls of compost into each planting site. As you dig, loosen the soil
+            to at least 12 inches deep and mix in a light application of a balanced organic fertilizer.\n\n
+
+            Plant summer squash seeds 8 inches apart, poking them into the soil 1 inch deep; water well.
+            Thin seedlings to 3 feet apart. (If using transplants, set them out 3 feet apart.)
+            To prevent insect damage, install protective row covers over your squash as soon as you’re done planting.
+            Read The No-Spray Way to Protect Plants for more tips about using row covers.</item>
+
+        <item>In late spring or early summer, sow seeds in warm, fertile and well-worked soil that contains
+            plenty of nitrogen. Sow early sweet corn varieties one to two weeks before main season varieties
+            for a longer harvest season. Many gardeners sow their early sweet corn when apple trees are in
+            full bloom. Thoroughly mix in a 1-inch layer of fresh grass  clippings, compost or well-rotted
+            manure along with alfalfa meal, soybean meal or another high-nitrogen organic fertilizer
+            (follow label directions). Sow seeds 1 inch deep and 4 inches apart, in blocks of at least three
+            rows spaced about 24 inches apart. Thin early varieties to 8 inches apart; thin taller midseason
+            and late varieties to 12 inches apart.</item>
+
+        <item>To grow sweet potatoes, begin with rooted stem cuttings, called “slips,” which sprout from the
+            ends of stored tubers. If you want to grow your own slips, move parent potatoes to a warm room in
+            early spring. A month before your last frost date, soak the tubers in warm water overnight, and
+            then plant them sideways or diagonally in shallow containers, covering the tuber only halfway
+            with sandy potting soil. After danger of frost has passed, move the sprouting sweet potatoes to
+            a warm spot outdoors and keep them moist. When handled this way, stems (the slips) will emerge
+            from both ends of the sweet potato, with each potato producing six or more. When the stems are
+            more than 4 inches long and the weather is consistently warm, break off the slips from the parent
+            sweet potatoes and plant them. \n\nSweet potatoes grow best in warm, well-drained soil with a slightly
+            acidic pH between 5.6 and 6.5. Choose a site with fertile soil in full sun. Where summers are mild,
+            place plastic, either black (heats soil and prevents weeds) or clear (heats more than black but does
+            not control weeds), over the site in spring to warm the soil. Plant slips into small holes cut
+            in the plastic, and leave plastic on the site until harvest time. Sweet potatoes benefit from a
+            generous helping of fully rotted compost dug into the soil before planting, along with a light
+            application of balanced organic fertilizer. Space bush-type varieties 12 inches apart, but allow
+            18 inches between varieties that grow long, vigorous vines. Space rows at least 3 feet apart;
+            long-vined varieties may need even more space. Situate sweet potato slips diagonally in prepared soil,
+            so that only the top two leaves show at the surface.\n\n
+
+            Water well and frequently for the first several days and be patient. After about two weeks,
+            the plants should be well-rooted and showing hardy growth. For even more information on growing
+            sweet potatoes, especially in cooler climates, visit Grow Sweet Potatoes – Even in the North.</item>
+
+        <item>In spring, sow directly in the garden two weeks before your last frost date, or start seeds
+            indoors three to four weeks before your last frost date and set seedlings out just as the last
+            frost passes. In fall, start seeds about 10 weeks before your first frost date, and set the
+            seedlings out when they are four weeks old.Prepare a rich, fertile bed by loosening the soil
+            while mixing in compost and a balanced organic fertilizer, applied at label rates. Plant seeds
+            half an inch deep and 3 inches apart. Set out seedlings 12 inches apart. Indoors or out, thin
+            newly germinated seedlings with cuticle scissors instead of pulling them out. Chard seed capsules
+            often contain two or more seeds. If more than one germinates, promptly snip off all but the
+            strongest sprout at the soil line. Gradually thin direct-sown seedlings to 12 inches apart.</item>
+
+        <item>Start seeds indoors under bright fluorescent lights in early spring, about six to eight weeks
+            before your last spring frost. If kept moist and warm (above 70 degrees Fahrenheit), tomato seeds
+            should sprout within a week. Transplant the seedlings to larger containers when they are about
+            6 weeks old. Harden off seedlings by gradually exposing them to outdoor weather for a few hours
+            each day for at least a week before transplanting them. Transplant seedlings to the garden
+            (or to large containers) after your last frost has passed, during a period of warm weather.
+            Choose a sunny site with fertile, well-drained  soil, and loosen the planting bed to 12 inches deep.
+            Mix in a layer of mature compost. \n\nDig planting holes at least 18 inches apart, and enrich each
+            with a spadeful of additional compost mixed with a balanced organic fertilizer(follow application
+            rates on the fertilizer label). Plant tomatoes deeper than they grew in their containers,
+            so that only the top five or six leaves show at the surface. Additional roots will grow
+            from the buried section of stem.</item>
+
+
+        <item>Sow a spring crop of salad turnips two  to three weeks before your last frost date; for
+            a fall crop, plant seeds up to 50 days before your first fall frost. Sow all-purpose turnips
+            for fall harvest 60 to 70 days before your first fall frost and sow rutabagas 100 days before
+            your first fall frost. Turnips and rutabagas are good crops to plant in spaces vacated by early
+            potatoes or peas, or between rows of harvested sweet corn. They grow best in fertile, well-drained
+            soil with a pH between 6.0 and 7.0. Mix a light application of a balanced organic fertilizer into
+            the planting bed unless ample nutrients remain in the soil from the previous crop. Loosen the soil
+            to at least 12 inches deep while mixing in a half-inch layer of compost.\n\n
+
+            Sow turnip seeds about 2 inches apart and half an inch deep. Turnips can be planted in rows spaced
+            6 inches apart, or you can broadcast the seeds over the bed and pat the soil to firm them into place.
+            After seeds have germinated, thin turnips to 2 inches apart. Two weeks later, when the plants reach
+            4 inches tall, thin turnips (other than salad turnips) to 4 inches apart (and enjoy the greens from
+            the pulled plants!). Salad turnips grow well even if spaced only 2 to 3 inches apart.\n\n
+
+            Sow rutabaga seeds 3 inches apart and a half-inch deep, allowing at least 18 inches between rows.
+            Although transplanting rutabagas isn’t usually recommended, starting seeds indoors and setting out
+            week-old seedlings under shade covers is often the best way to get a good stand of rutabagas growing
+            in hot summer weather. Thin direct-seeded rutabagas to at least 8 inches apart. Mulch to keep the
+            soil cool and moist during hot summer weather.</item>
+
+        <item>You should plant the least hardy grains first, followed by hardier species as the first frost
+            approaches. Ten to 12 weeks before your first fall frost, start sowing seeds of oats or winter barley.
+            In areas with mild winters, they can be planted up to six weeks before the first fall frost date.
+            Eight to 10 weeks before your first fall frost date, sow seeds of triticale, wheat and spelt.
+            (Many state extension services publish recommended dates for growing wheat, which often has a tight
+            interval for seed sowing.) In areas with mild winters, you can plant these grains up to four weeks
+            before the first fall frost date.\n\n
+            Four to eight weeks before your first fall frost date, sow seeds of cereal rye. Cereal rye can be
+            planted until the first fall frost date in areas with mild winters. All grains need fertile,
+            well-drained soil and a near-neutral pH (about 6.0). If possible, sow winter grains into the stubble
+            of a previous crop instead of planting into a clean bed. Any vegetation at the surface will help block
+            wind and catch snow, which enhances the winter hardiness of all grains. Use a rake or hand trowel to
+            rough up the soil’s surface, then plant seeds about 1 inch deep and 1 to 2 inches apart. Firmly tamp
+            the seeds into place with the back of a rake, then water the area. Keep the soil lightly moist until
+            the seedlings emerge.</item>
+
+        <item>In spring, sow seeds in prepared beds or hills after your last frost has passed, or sow them
+            indoors under bright fluorescent lights. Set out seedlings when they are about three weeks old.
+            In Zone 6 and warmer, you can plant more winter squash in early summer, using space vacated by
+            fall-planted garlic or early spring lettuce. Stop planting winter squash 14 weeks before your
+            expected first fall frost. Winter squash grows best in warm conditions, in fertile, well-drained
+            soil with a pH between 6.0 and 6.5. Choose a sunny site and prepare 3-foot-wide planting hills
+            within wide rows, or position them along your garden’s edge. Leave 5 to 6 feet between hills.
+            Loosen the soil in the planting sites to at least 12 inches deep. Thoroughly mix in a 2-inch
+            layer of mature compost and a light application of balanced, organic fertilizer. Water well.
+            Plant six seeds per hill, poking them into the soil 1 inch deep. After seeds germinate (about
+            10 days after sowing), thin seedlings to three per hill. Set up protective row covers as soon
+            as you’re done planting. (See The No-Spray Way to Protect Plants for more information on how
+            to guard your garden crops with row covers.)</item>
+
+  </string-array>
+
+
+
+
+
+
+   <string-array name="Harvesting">
+
+
+        <item>A month after planting, drench actively growing artichokes with a high-nitrogen liquid
+            fertilizer to invigorate new growth. Artichoke plants grow 3 to 5 feet tall, and their spiny
+            gray-green foliage makes them useful as edible ornamentals. As older leaves wither, gather
+            them up and compost them.In mid- to late-summer, watch for upright flowering stems topped
+            by artichoke flower buds. Use a sharp knife to cut globe artichokes with a 2-inch stub of
+            stem attached when the lowest scales on the bud begin to open, but the top is still tight.
+            Refrigerate artichokes immediately, and wash just before cooking them. After the first
+            artichokes are harvested, plants typically produce a second crop of smaller buds.
+            For long-term storage, you can freeze whole washed artichokes that have been steamed
+            until just done.  When thawed, the artichokes can be cut in half and grilled.</item>
+
+       <item>You can eat the young seedlings you pull while thinning your crops. As leafy types mature,
+           harvest individual leaves or cut away fistfuls of greens, leaving the plants’ central crowns intact.
+           New leaves will quickly replace the harvested ones. Pull whole Chinese cabbage or bok choy
+           plants as you need them, and gather or protect them all before your first hard freeze. Most Asian
+           greens can survive for several weeks in early winter if they’re inside a row cover or plastic tunnel.
+           Whole heads that are trimmed, rinsed and refrigerated will keep for up to a month. Cut 4- to 6-inch
+           stems from sprouting brassicas when the green flower buds just begin to show yellow, and promptly
+           chill them in the fridge. Bumper crops of any Asian vegetables can be blanched and frozen.</item>
+
+       <item>Controlling weeds during the first two seasons will require rigorous weeding by hand.
+           Pull out weeds early and often, and mulch with hay, grass clippings or another organic material
+           to suppress weeds and maintain moisture. Weeds will become less of an issue as the plants fill in.
+           In early winter, after several hard freezes have damaged your asparagus fronds, cut them off
+           and compost them to interrupt the life cycles of insects and diseases. Fertilize the bed with
+           a 1-inch layer of rich, weed-free compost or manure topped with 3 inches of straw, rotted sawdust
+           or another weed-free mulch. Clean spears will push up through the mulch in spring. Fertilize your
+           asparagus again in early summer after you’ve stopped harvesting spears. You can top-dress with a
+           balanced organic fertilizer, or scatter another inch of rich, weed-free compost over the decomposing
+           mulch.The exact dates of your spring picking season can vary by two weeks or more because of variations
+           in soil temperature from year to year. Snap off spears longer than 4 inches at the soil line as soon as
+           they appear in spring. As long as a new planting grew vigorously its first season (and your growing
+           season is not extremely short), you can harvest spears for two weeks after your planting is a year old.
+
+            The next season, harvest all spears that appear for the first four weeks of active growth.
+           In your third season you can harvest asparagus for six weeks, and by the fourth year the plants
+           will be strong enough to tolerate a full eight-week harvest season.
+            Promptly refrigerate your harvested asparagus. You can pickle, dry, or blanch and then freeze bumper crops.</item>
+
+       <item>Harvest green beans when they are young and tender, and use two hands when picking to keep
+           from breaking the brittle plants. Most bush beans will produce a second or third flush of beans
+           after the first one is picked. Harvest pole beans at least twice a week to keep the plants productive.
+           The mature beans of all snap bean varieties usually make good soup beans.</item>
+
+       <item>Beets grow best when temperatures average about 65 degrees, so early plantings grow faster
+           if covered with row covers. Pull weeds early and often, and use light mulches of grass clippings
+           or compost to help maintain even soil moisture. Beet roots often naturally push up out of the
+           ground as they mature, and this exposure to sun can cause the shoulders of white or yellow beets
+           to become green and tough. Cover the roots with mulch or loose soil to ease the problem.
+           Beet greens can be harvested anytime, and picking a leaf or two from each plant won’t compromise
+           their root growth, but many gardeners wait until beets are ready to pull to harvest the inner leaves.
+           Beet leaves taste best when they are about 6 inches long, but baby greens are wonderful in salads
+           and bigger leaves still cook up nicely. Leave a few spring-sown beets in the garden through summer
+           to enjoy a steady production of young greens.
+
+            Carefully wash harvested beets in cool water. Use a sharp knife to cut off all but 1 inch of
+           the beet tops, but leave the taproot intact. Removing the tops prevents moisture loss from the roots.
+           Store washed, trimmed beets in your refrigerator or a cool root cellar for several months. You also
+           can make  pickled beets and process them in a water bath canner for longer storage Bury mangel beets
+           in a pit to use as needed for livestock fodder in winter.</item>
+
+       <item>Mulch blackberries with 3 inches of an organic mulch year round. Chopped leaves, grass clippings,
+           wood chips and sawdust are all good blackberry mulches. In spring, feed established plants with a
+           balanced organic fertilizer or a topdressing of composted manure before renewing the mulch.
+           In midsummer, cut off the tops of new canes at no more than 6 feet from the ground. This pruning
+           triggers the growth of heavy-bearing lateral branches. In fall or early spring, prune the tips of
+           these lateral branches to 12 to 18 inches long. Pruning is especially important with productive
+           varieties such as ‘Nachez’ and ‘Triple Crown,’ which tend to set huge crops of small fruit when left unpruned.
+
+            Blackberries are ready to harvest about 40 days after blooming, but most varieties taste best
+           when allowed to ripen to dull black before they are picked. Harvest ripe berries in the morning
+           when they are cool, and handle them carefully to avoid crushing. Refrigerate immediately. Whole
+           washed blackberries, patted dry, can be frozen for later use. Blackberry juice, jams and jellies
+           are easy to process in a water bath or steam canner.</item>
+
+       <item>Pick off flowers that form on blueberry bushes their first year. (This allows plants to put
+           all of their energy into getting a strong start.) Water new blueberry plantings during dry spells,
+           and renew mulch as needed to maintain a 2-inch-deep layer. After plants are established, fertilize
+           them in spring with a light application of a balanced organic fertilizer, or use an organic
+           fertilizer labeled for acid-loving azaleas or hollies. Fertilize blueberries in late summer
+           to help plants set plenty of flower buds.
+            Give blueberries watering priority during droughts. Blueberry bushes have extensive surface roots,
+           so watch the wetting pattern of your watering equipment to ensure a thorough soaking to 6 inches deep.
+           Learning how to grow blueberries involves employing proper pruning technique and balancing new growth
+           with old. Pruning is essential to keep production high, plants at a manageable height and berry size
+           large. Healthy highbush blueberries and rabbiteyes should produce at least one new cane each year,
+           but there may be more. In late winter, count the number of new canes and cut off an equal number of
+           old ones at ground level. Cut back the tips of the new canes to encourage branching, and snip out
+           dead branches and low limbs that would touch the ground if fruit-laden. If you don’t see any new canes,
+           step up fertilization and check the soil pH.Blueberries taste best if they stay on the plant for a few
+           days after they turn blue. Pick blueberries at least twice a week while they are ripe. Choose a mix of
+           early- and late-maturing varieties to have fresh blueberries for more than a month.</item>
+
+       <item>Harvest broccoli heads when the florets around the edges of the head begin to show slight
+           loosening, but when the beads in most of the crown are still tight. Cut the stems at an angle
+           — this will keep water from pooling inside the cut stem and causing rot. Refrigerate the cut
+           heads immediately. To get top home-preserved quality, steam-blanch broccoli before freezing it.
+           Continue to water the plants after harvest, as most varieties will produce secondary heads.
+
+        Watch broccoli raab closely, and harvest just as the first flowers show their yellow petals.
+           Sprouting broccoli and broccoli raab are also cut-and-come-again crops that produce a second
+           flush of buds after the first ones have been harvested.
+        When plants are spaced 18 inches apart, average yields are about 1 pound of broccoli per foot of row.
+           Three to four plants per person is sufficient for fresh summer eating, but you should triple that number
+           if you want a freezer crop for winter.</item>
+
+       <item>Featherweight row cover held aloft with hoops or  stakes is the easiest way to protect Brussels
+           sprout plants from grasshoppers and other summer insects. When the plants are 12 inches tall,
+           top-dress them with a high nitrogen organic fertilizer such as composted manure.
+            As plants grow, stake plants to keep them from falling over. Upright Brussels sprout plants
+           produce better than crooked ones. To harvest, twist off sprouts, a few at a time, as soon as
+           they are at least one-half inch in diameter. Keep in mind that the first sprouts are often much
+           smaller than those produced later in the season. Breaking off the lowest leaves gives nearby sprouts more room to grow.
+            Refrigerate harvested sprouts immediately. Brussels sprouts will keep in the refrigerator for
+           several weeks, or they can be blanched and frozen. Here’s another neat storage option: In the North
+           where the plants grow quite large, they can be pulled from the garden with sprouts still attached,
+           stripped of their leaves, and stuck into a bucket of damp sand kept in a cold root cellar.
+            As biennials, Brussels sprouts produce yellow flowers followed by elongated seedpods in their second year.
+           When the seedpods dry to tan, gather them in a paper bag, and allow them to dry indoors for a week.
+           Shatter the dry pods and collect the largest seeds for replanting. Under good conditions, Brussels
+           sprouts seeds will store up to three years.</item>
+
+       <item>Begin harvesting cabbage when the heads feel firm, using a sharp knife to cut the heads from the stem.
+           Remove and compost rough outer leaves, and promptly refrigerate harvested heads. If cut high, many varieties
+           will produce several smaller secondary heads from the roots and crown left behind.
+            Cabbage will store in the refrigerator for two weeks or more, and you can keep your fall crop in cool
+           storage for several months. Clean cabbage carefully, because heads may harbor hidden insects.
+            Cabbage yield is generally about 1 pound per foot of row. For the spring crop, three cabbage plants
+           per person is probably sufficient for fresh eating. Grow another four plants per person in fall if you
+           plan to store your cabbage or make sauerkraut.</item>
+
+       <item>Prepare the planting bed by loosening the soil to at least 12 inches deep. Thoroughly mix in a 1-inch
+           layer of mature compost or a half-inch layer of vermicompost (carrots love what earthworms leave behind).
+           Sow your seeds about a quarter inch deep and 2 inches apart, in rows spaced at least 10 inches apart;
+           carrots do well in double or triple rows. Thin seedlings to 4 to 6 inches apart, depending on the variety’s
+           mature size.Pull or dig spring-sown carrots when roots reach mature size and show rich color. Taste improves
+           as carrots mature, but do not leave mature carrots in warm soil any longer than necessary (many critters like carrots).
+           Summer-sown carrots that mature in cool fall soil can be left in the ground longer, but should be
+           dug before the ground freezes to preserve their quality. Remove tops to prevent moisture loss, rinse clean,
+           and store in a refrigerator or cold root cellar. Most varieties keep for several months in the fridge.
+           Carrots also may be canned, pickled, dried or frozen.</item>
+
+       <item>Featherweight row cover held aloft with hoops or stakes is the easiest way to protect actively
+           growing cauliflower plants from grasshoppers and other summer insects.
+
+            As the plants grow, drench them with a high nitrogen fertilizer such as fish emulsion every two weeks.
+           Cauliflower plants stay low to the ground, and never grow tall. Use a sharp knife to cut heads from the plants
+            when they are the size you want, but before they become off-color or rice-like in texture.
+           Refrigerate harvested cauliflower immediately. Cauliflower will keep in the refrigerator for several weeks,
+           or you can blanch and freeze the florets. Cauliflower plants produce only one head, so they can be pulled
+           and composted after the crop has been harvested. </item>
+
+       <item>Celery and celeriac seedlings should show vigorous new growth a few weeks after they have been
+           transplanted. Plants that are making little progress should be drenched with fish emulsion or
+           another organic liquid fertilizer. Try to keep the plants’ roots moist at all times, and don’t
+           worry about excessive rain — celery and celeriac tolerate waterlogged soil better than other vegetables.
+           To encourage stalk celery to develop a pale, mild-flavored heart, use an elastic hair scrunchie or
+           strips of soft cloth to secure the stalks into a bunch after the plants have been growing in the
+           garden for eight to 10 weeks. Blanching — excluding light from the stalks to prevent chlorophyll
+           production — for one to two weeks is necessary to grow celery that looks lighter and tastes milder.
+           Cut high, 1 to 2 inches from the ground, when harvesting celery hearts. A new stalk (and sometimes two or three)
+           will sprout from the stump left behind. Trim off excess leaves and tough outer stalks before storing
+           celery in the refrigerator. Freeze blemished celery and the outside stalks that are dark and coarse
+           for flavoring broths and stocks. Include bits of celery or cutting celery in packets of frozen garden veggies.
+           Blanch and dry a bumper crop of stalk celery or cutting celery. Dried celery makes a great addition to homemade soup mixes.
+
+            Celeriac plants shed their lowest, oldest leaves naturally beginning in midsummer. Low, hollow stems
+           in good condition can even be used as novel drinking straws. Harvest celeriac before hard freezes damage
+           the roots. Clip off all leaves and roots before storing celeriac in the refrigerator or packed in damp
+           sand in your root cellar.</item>
+
+       <item>Cucumbers self-regulate how many fruits they carry at a time. To maximize production, harvest
+           fruits as soon as they reach picking size. Pick daily, be­cause under ideal conditions, cucumber
+           fruits can double in size in just one day. Use scissors or small shears to snip fruits with a short
+           stub of stem attached. Lightly scrub, pat dry and refrigerate harvested cucumbers right away.
+
+            Depending on variety and size of the fruit, one cucumber plant will typically bear 10 to 20 fruits,
+           which would total about 2 to 3 pounds. Apound of cu­cumbers yields about a pint of pickles, and six
+           healthy plants of a pickling va­riety will produce enough cucumbers in one season to make more than
+           a dozen pints of pickles.</item>
+
+       <item>Harvest beans and peas for drying anytime after the pods have become leathery up to when they
+           have dried to their mature colors. (For example, the pods of ‘Dwarf Horticultural’ beans turn ivory
+           with red stripes when the seeds inside reach maturity, while the pods of ‘Pinkeye Purple Hull’ cowpeas
+           turn dark purple.) You can harvest green beans and peas for fresh cooking sooner, but seeds you intend
+           to store must be fully ripe.
+
+            Leave drying pods on the plants as long as you can, but harvest them before a period of prolonged
+           rain. If damp weather sets in just when your beans should be drying, pull up the plants and hang them
+           upside down in a dry place until the beans are dry enough to pick and sort. Collect drying pods from pole
+           varieties and runner beans as they change to tan or brown, and let the pods dry until crisp in a shallow
+           tray or box kept indoors.
+
+           Threshing, or “shelling,” is the process of removing bean seeds from the pods, and you can do it
+           either by machine or by hand. On a home-garden scale, shell a large crop of dry beans or peas by
+           placing the dry pods on a tarp and crushing them by walking over them. Gather the heavy seeds that
+           drop from the pods, and remove debris by pouring the beans back and forth from one bowl into another
+           in front of a fan for a few minutes. Another option for small harvests is to put the pods in a pillowcase,
+           tie the pillowcase closed tightly, and tumble it in a warm (not hot) clothes dryer.
+
+           After shelling and winnowing out debris, place your beans or peas in open bowls, and let them dry
+           at room temperature for two weeks, stirring often. When the seeds are hard and glossy, remove any
+           shriveled beans (dumping the beans over a screen can help), and store your sorted beans in airtight
+           containers. If you suspect bean weevils or other insects may be present in your stored beans or peas,
+           keep the sealed containers in the freezer. </item>
+
+       <item>Another way to keep pesky flea beetles at bay is to grow eggplant in containers. Compact
+           eggplant varieties work especially well in pots. Keep your eggplants on an outdoor table to
+           keep them out of range of ground-dwelling flea beetles. Plants produce best in 16-inch-wide
+           pots or planters. Dark-colored pots help accumulate heat in cool climates. Growing eggplant
+           in containers requires fertilizing as often as needed to maintain steady growth and good leaf
+           color. Plants that need to be watered often also need to be fed more frequently.Begin harvesting
+           eggplant when the fruits reac full size and pressing firmly produces a thumbprint that bounces
+           back quickly. Under-ripe eggplants are too hard to take a thumbprint, and overripe ones are so
+           soft that a thumbprint leaves a permanent bruise. Eggplant skins should be tender and glossy.
+           Use pruning shears to harvest eggplants with their cap (calyx) intact. Storing eggplant is easy
+           — simply keep the fruit at cool room temperature or in the refrigerator for no more than three
+           days before cooking or preserving.</item>
+
+       <item>Keep bulb fennel seedlings carefully weeded, and drench plants with a liquid organic
+           fertilizer when they are 12 inches tall. In early summer, mulch bulb fennel with grass clippings
+           or another organic mulch to retain soil moisture, an essential factor in growing big, crisp bulbs.
+           However, mulching too early can delay soil warming and invite problems with slugs. When growing
+           fennel, do not allow the plants to run dry once bulb formation has begun.
+
+            Begin harvesting fennel bulbs as you can use them in the kitchen after the bulbs are more than
+           2 inches across. Bulb fennel plants grown in spring do not get extremely large, and should be
+           harvested before the weather turns hot. If you cut the bulb high, so that the root and the base
+           of the bulb remain in the soil, the stub will regrow a couple of small crowns with miniature
+           fennel fronds — nice little tidbits to include in packets of frozen garden veggie mixtures.
+
+           With half of their tops trimmed off, fennel bulbs will keep in plastic bags in the refrigerator
+           for a couple of weeks. Excess bulb fennel can be blanched and frozen. </item>
+
+       <item>Allow new figs to grow freely their first year. In early winter, select three to five strong,
+           widely spaced branches, and prune out all others close to the ground. As long as the selected
+           branches are not damaged by winter cold, they will bear a light crop in early summer, and a heavier one a few weeks later.
+
+            Each spring, feed established plants with a balanced organic fertilizer or a topdressing
+           of composted manure before renewing the mulch.Pruning fig plants is best done in spring, after
+           surviving buds have begun to grow. Pruning figs back to live wood is often necessary in Zone 7,
+           where plants are occasionally frozen back to the roots. In other areas, prune to thin plants back
+           to about five strong branches, and to remove old and damaged wood.
+            Figs change colors and soften as they become ripe. Taste-test sample fruits often, because
+           ripe figs do not hold well on the plants in hot weather.
+
+            Wear gloves and long sleeves when picking figs, because the plants’ sap can irritate your skin.
+           Refrigerate your harvest immediately. For long-term storage, figs can be dried, frozen, or canned
+           in syrup using a water bath or steam canner.</item>
+
+       <item>Pruning is a key aspect of growing fruit trees. The goal of pruning fruit trees is to provide
+           the leaves and fruit access to light and fresh air. The ideal branching pattern varies with species,
+           and some apple and pear trees can be pruned and trained into fence- or wall-hugging espaliers to
+           save space. Begin pruning fruit trees to shape them in their first year, and then prune annually
+           in late winter, before the buds swell. Pruning a little too much questionable growth is better
+           than removing too little.
+
+            Many fruit trees set too much fruit, and the excess should be thinned. Asian pear trees should
+           have 70 percent of their green fruits snipped off when the pears are the size of a dime, and
+           apples should be thinned to 6 inches apart before the fruits are the size of a quarter. When any
+           type of fruit tree is holding a heavy crop, thinning some of the green fruits will increase fruit
+           size, reduce limb breakage and help prevent alternative bearing (a tree setting a crop only every
+           other year).With the exception of pears, tree fruits should be harvested just as they approach
+           full ripeness and then kept chilled to slow spoilage. The flavor of most apples improves after
+           a few weeks in cold storage, so a second refrigerator or a root cellar may be useful. Apples and
+           pears can be kept for several months in a refrigerator, but softer stone fruits (cherries, nectarines,
+           peaches and plums) must be canned, dried, frozen or juiced within a few days of harvest for long-term storage.</item>
+
+       <item>From early summer to midsummer, watch plants closely and pull them when about one-third
+           of the leaves appear pale and withered. Use a digging fork to loosen the soil before pulling the plants.
+           Handle the newly pulled bulbs delicately to avoid bruising them. Lay the whole plants out to dry in a warm,
+           airy spot that is protected from rain and direct sun. After a week or so, brush off soil from the bulbs
+           with your hands, and use pruning shears to clip roots to half an inch long. Wait another week before
+           clipping off the stems of hardneck varieties or trimming and braiding softnecks into clusters. Do not
+           remove the papery outer wrappers, as these inhibit sprouting and protect the cloves from rotting.
+
+            Storage life varies with variety and with growing and storage conditions. When kept at 50 to 60 degrees
+           Fahrenheit, rocamboles store about four months, other hardneck garlic varieties usually last six months,
+           and softneck and elephant garlic store for eight months or more. Hang your cured crop in mesh bags, or
+           braid softneck types and suspend from rafters in a cool basement or garage.</item>
+
+       <item>Matching your trellis design and pruning practices to the natural growth habit of your chosen
+           grapes will go a long way toward preventing disease and maximizing productivity. In general,
+           ‘Concord’ grapes and other labrusca varieties produce downward-facing branches from long canes
+           that form a cascade of foliage, so they do best on a high trellis or an arbor. Similarly,
+           muscadine grapes are easiest to manage on an overhead rectangular trellis, sometimes called an “X trellis.”
+           With these vigorous fruits, pruning should be geared toward preserving two to four 6-foot
+           canes while trimming out excess growth.
+
+            Most table and wine grapes produce upward-facing shoots, so a two-tiered trellis that supports
+           the branches as they gain height is best. Trellises of tightly woven wire are preferable because
+           they do a good job of supporting the vines when they become heavy with fruit. Pruning of table and
+           wine grapes should be aggressive — remove all old growth except for selected fruiting spurs.
+           If you’re growing table grapes on an arbor, you can prune a little less if you want to get a
+           thick cover of foliage.
+
+            Prune grapes in late winter, before the buds begin to swell. The first year after planting,
+           concentrate on helping your young plants grow straight, sturdy trunks. The training of side
+           branches will begin in the second year, with buds ready to bear fruit three years after planting.
+           Each grape variety you grow will respond differently to various pruning practices, so be prepared
+           to fine-tune your methods.Grapes are ripe when they taste sweet. Early-maturing white or red varieties
+           may be ready to pick a month before later-maturing blue or black grapes. Allow grapes to stay on the
+           vine until the berries show a whitish bloom on their skins, but bring them in should a period of wet
+           weather be in the forecast. Ripe grapes often crack after heavy rains.
+
+            Keep clusters of unwashed grapes in the refrigerator, stored in plastic bags to help retain humidity.
+           Fresh or frozen grapes can be made into juice, jelly or wine. Seedless grapes are easiest to dry into raisins.</item>
+
+       <item>Allow upright horseradish plants a full season to establish themselves in the garden.
+           The long, strap-like leaves often grow 3 to 4 feet tall; they should not be fed to livestock or
+           people, but make good compost fodder. Remove weeds that crowd the young plants. Growing horseradish
+           plants develop most of their storage roots in early fall, so they should not be allowed to run dry in late summer.
+
+            Overwintered horseradish plants may send up spikes of white flowers in late spring. Clip off the
+           seed heads before they become fully mature, because horseradish easily becomes weedy.Your horseradish
+           harvest should commence in late fall, after several frosts have damaged the leaves. Use a digging fork
+           to loosen the soil on two sides of the plant, gathering up broken pieces of root as you dig. Then loosen
+           the soil on the other side of the plant before attempting to pull it. Set aside or replant root pieces
+           the size of a pencil, and store others in plastic bags in the refrigerator. Harvesting horseradish can
+           continue into winter provided the ground is not frozen — or, you can dig the roots first thing in spring.
+           Between diggings, keep fresh horseradish roots in the fridge, ready to use.
+
+            To prepare fresh horseradish for eating, peel a root and cut it into small pieces, then puree in a food
+           processor with just enough water for chopping. Add a few pinches of salt and a teaspoon or two of white
+           vinegar, and puree until only slightly lumpy. Place in a small clean jar, and add more vinegar if needed
+           to cover the horseradish. Use within two weeks by mixing with mayo or sour cream to make horseradish sauce.</item>
+
+        <item>Cool soil temperatures improve flavor and texture. If your winters are cold, begin digging Jerusalem
+            artichokes in late fall, at least two weeks after your first hard freeze. In milder areas, wait until
+            midwinter to dig your tubers.
+
+            Using a digging fork, start at one end of the bed and work your way across, feeling for tubers with your
+            fingers. Tubers can sometimes be hiding a foot deep. Harvesting can continue through winter as long as the
+            ground isn’t frozen. In very cold climates, digging will often have to wait until the soil thaws in spring.
+
+            Rinse and pat dry harvested tubers before storing them in a refrigerator or cool root cellar. Jerusalem
+            artichokes will keep in the fridge for a couple of months.</item>
+
+
+        <item>Begin harvesting when plants’ leaves are larger than your hand, and just break off the older, bigger
+            leaves as you need them for cooking. New leaves will continue to grow from the plants’ centers. After the
+            plants reach harvestable size, most varieties will yield three leaves per plant every five days.
+
+            Leaf quality is best in the fall, after the plants have been exposed to a few light frosts. These are
+            the best leaves to blanch and freeze for long-term storage. Kale and collard greens also can be dried
+            into snackable chips.</item>
+
+       <item>In spring, you may need to protect kohlrabi from cold winds with cloches or a tunnel covered with
+           row cover or perforated plastic. Featherweight row cover held aloft with hoops or stakes is the
+           easiest way to protect actively growing kohlrabi from insects. Should the little plants refuse to
+           grow even after the soil warms up in spring, drench them with a high-nitrogen fertilizer, such as
+           fish emulsion, every two weeks.Pull up entire plants when kohlrabi bulbs reach 3 inches in diameter.
+           Cut off the roots and leaves and store the bulbs in your refrigerator. Kohlrabi will keep in the
+           refrigerator for several weeks, or you can blanch and freeze uniform chunks of peeled kohlrabi.
+
+            Some people enjoy eating the young leaves taken from the tops of kohlrabi as cooked greens,
+           especially in fall when the leaves tend to be sweet and tender. This is seldom true of leaves
+           taken from kohlrabi that has grown in warm weather. </item>
+
+        <item>Keep leeks carefully weeded, and drench plants with a liquid organic fertilizer when they
+            are 15 inches tall. In dry climates, mulch leeks with grass clippings, chopped leaves or another
+            organic mulch that helps retain soil moisture. Leeks need more water than other garden crops,
+            and should never be allowed to run dry.Use a digging fork to loosen soil around leeks before
+            pulling them as needed in the kitchen. Trim roots to one-half inch, and cut off all but 2 inches
+            of the green tops. Store in plastic bags in the refrigerator for up to two weeks. Before eating,
+            slice leeks lengthwise and rinse under cool running water to remove bits of soil. Excess leeks are
+            easy to dry in a food dehydrator.</item>
+
+        <item>Harvest lettuce in the morning, after the plants have had all night to plump up with water.
+            Wilted lettuce picked on a hot day seldom revives, even when rushed to the refrigerator. Pull
+            (and eat) young plants until you get the spacing you want. Gather individual leaves or use
+            scissors to harvest handfuls of baby lettuce. Rinse lettuce thoroughly with cool water, shake
+            or spin off excess moisture, and store it in plastic bags in the refrigerator. Lettuce often
+            needs a second cleaning as it is prepared for the table.</item>
+
+        <item>Most muskmelons naturally separate (“slip”) from the vine when ripe, which means you can pick
+            these melons with just a gentle tug. The rinds of some varieties of honeydew and watermelon change
+            color when ripe, making it easier to learn the melon-picker’s art. Watermelons are ripe when the
+            curled tendril nearest to the melon dries to brown, and when the melon sounds deep and solid if
+            thumped. Pecking from birds often indicates imminent ripeness.
+
+            Keep muskmelons at room temperature for two to three days after harvesting to help bring out flavors
+            , and then move them to a refrigerator. Always keep honeydew and Asian melons in the refrigerator.
+            Watermelons stored in a cool place (about 55 degrees Fahrenheit) will keep for several weeks.</item>
+
+
+        <item>Weed by hand for the first few weeks after planting okra. After the soil becomes summer-warm,
+            install a soaker hose down the row and cover it with a mulch of grass clippings or wood chips.
+            During dry periods, deeply soak the bed once per week.
+
+            After the first big harvest of pods, top-dress the plants with a balanced organic fertilizer,
+            gently mixed into the top half-inch of soil. After fertilizing, water thoroughly with a hose
+            to soak the fertilizer into the soil.You can begin harvesting okra three to four days after each
+            flower fades. After plants start blossoming, pods should be harvested every other day. Use pruning
+            shears or a sharp knife to gather pods with a small stub of stem attached. Pods more than 5 inches
+            long may be tough, though long-podded varieties often produce pods that stay tender to 8 inches long.
+            Immediately refrigerate pods after harvesting okra, and wait until just before cooking to rinse
+            clean and pat dry.
+
+            For long-term storage, whole pods can be pickled, steamed and frozen, or, for frying later,
+            cut into slices, tossed in seasoned corn meal, and frozen.</item>
+
+
+       <item>The tops of bulb onion plants fall over naturally once the bulbs have matured. When half of the tops
+           in a planting have fallen over, lift all of the bulbs and place the pulled plants in a warm, dry place
+           away from direct sunshine to cure.
+            Cure short-day onions for just a few days before clipping off roots and tops and storing the onions
+           in the refrigerator. Cure intermediate- and long-day onions for two to three weeks. When the onions feel
+           paper-dry on the outside, clip off tops and roots, and lightly brush off loose soil before storing the
+           onions in a cool, dry place. Arrange them in a single layer or hang them in mesh bags. Properly cured
+           onions will store for six to eight months in a root cellar or cool basement. Check them weekly to sniff
+           out signs of spoilage.</item>
+
+        <item>Parsnips demand constant weeding for several weeks, but then the plants produce long, celery-like
+            leaves that shade surrounding soil. Water as often as needed to keep soil constantly moist. In dry
+            climates, mulch growing parsnips with grass clippings, chopped leaves or another organic mulch that
+            helps retain soil moisture. Parsnips need more water than other garden crops, and should never be
+            allowed to run dry.Like carrots, parsnips push up out of the ground
+            when they reach mature size. Use a digging fork to loosen the soil around parsnips before pulling
+            them as needed in the kitchen. Immediately cut off the tops and wash and refrigerate parsnips, which
+            will store in plastic bags in the refrigerator for up to two months.
+            In fall, many gardeners leave some of their parsnips in the ground, and harvest them as soon as
+            new growth appears in early spring. </item>
+
+        <item>Keep your actively growing peanuts thoroughly weeded, and hill up loose soil around the plants
+            when they are 12 inches tall. About six weeks after planting, peanut plants produce pea-like yellow
+            flowers on stems that grow longer each day. When fertilized, the flowers become pegs that bend over
+            until their tips penetrate the soil. Peanuts develop underground, at the ends of these pegs.
+
+            You should wait to harvest your peanuts until the plants begin to die back and the soil is warm and dry.
+            Loosen the soil with a digging fork, and then use two hands to lift intact peanut plants with stems and
+            roots attached.
+
+            After harvesting peanuts, shake off the soil and lay the plants in the sun to dry. Let the harvested
+            plants dry in the sun for a week, and then pick off the nuts and let them dry indoors for two more weeks.
+            Many people use movable carts to cure peanuts, so they can be dried outdoors on sunny days, and moved
+            to shelter before forecasted rain.
+
+            Peanuts are a relatively good storage crop. Dry, unshelled peanuts will store in a cool, dry place for
+            several months. For long-term storage, shelled raw peanuts can be stored in the freezer. </item>
+
+
+        <item>To avoid mangling the vines, use two hands to  harvest peas. When green peas are ripe, harvest
+            them daily, preferably in the morning. Pick snow peas when the pods reach full size and the peas
+            inside are just beginning to swell. For best flavor and yields, allow snap peas to change from flat
+            to plump before picking them. Gather sweet green shell peas when the pods begin to show a waxy sheen,
+            but before their color fades. Immediately refrigerate picked peas to stop the conversion of sugar to
+            starches and maintain the peas’ crisp texture. Promptly blanch and freeze your extra peas.
+
+            Soup peas can be left on the vines until the pods dry to tan. After shelling and sorting, allow soup
+            peas to dry at room temperature until they are so hard that they shatter when struck with a hammer.
+            Store in airtight containers in a cool, dry place.</item>
+
+        <item>You can eat peppers when they are mature yet still green (green peppers), although the flavor and
+            the vitamin content of peppers improve as they ripen to red, yellow or orange. Use pruning shears to
+            snip ripe peppers from the plant, leaving a small stub of stem attached. Bumper crops can be briefly
+            steam-blanched or roasted and then frozen, either whole (for stuffing) or chopped. Peppers are also
+            easy to dry. Dried peppers quickly plump if soaked in hot water, or you can grind them into powders
+            for your spice shelf.</item>
+
+        <item>Potato plants die back as they finish making their crop. Begin digging when the foliage starts to
+            yellow and wither. Gently knock off dirt and allow the tubers to dry indoors, covered with dry towels,
+            for a day or two. Take care to protect the tubers from sunlight at all times to prevent greening that
+            may result in bitterness. Store the most perfect tubers in a cool, 50- to 60- degree place to be used
+            as seed potatoes. Eat the “less than perfect” potatoes first, but keep in mind that they won’t store forever.
+            For longer storage, potato slices can be blanched and dried. A pressure canner must be used to can potatoes.</item>
+
+        <item>Pumpkins are ripe when you can’t easily pierce the rind with your fingernail. Try to delay harvest
+            until the vines begin to die back. Use pruning shears to cut pumpkins from the vine, leaving at least
+            1 inch of stem attached. Wipe fruits clean with a damp cloth, and then cure your pumpkins in a 70- to 80-degree
+            Fahrenheit area for two weeks. Store cured pumpkins in a cool, dry place, such as a basement or garage.
+            Thin-skinned pumpkin varieties (such as ‘Winter Luxury’) and oilseed pumpkins will store for only a few weeks,
+            but some moschata pumpkins will keep for six months or more.</item>
+
+        <item>When pulling radishes in warm weather, cool them right away by dropping them into a pail of cold water.
+            Use a sharp knife or kitchen shears to remove the leaves, then store in the refrigerator for up to three weeks.
+            Large oriental varieties can be left in the ground well into fall and dug just before the soil freezes.
+
+            Harvest salad radishes once they are bigger than grapes. Radishes left in the ground too long develop a pithy
+            texture and often crack following heavy rains.
+
+            Hot weather and drought encourage the development of spicy flavor compounds, which are similar to those
+            found in horseradish.</item>
+
+        <item>In late summer, pinch back new cane tips at 4 to 5 feet to stimulate the growth of heavy-bearing lateral
+            branches. This type of pruning is especially effective for pushing summer red raspberries and black and purple
+            raspberries to develop more buds. You can tip-prune everbearing raspberries in midsummer to encourage a heavier
+            fall crop, but doing so isn’t necessary.
+            When a raspberry cane finishes producing fruit, it naturally dies. To keep a clean patch with good air and
+            sun penetration, remove old canes by clipping them off at the ground and pulling them out from the top.
+            Frequently with everbearing raspberries, the tip end of a cane will fruit in fall, and buds farther down the
+            stem that survive winter will bear a summer crop. Prune off the spent tip, but harvest the summer crop before
+            removing the cane.Raspberries are ripe when they show good color and come off easily when picked. Daily
+            harvesting is best, because hot sun can scald ripe berries and prolonged rains can cause them to rot.
+
+            Harvest raspberries into shallow containers, no more than three berries deep. Refrigerate picked berries
+            immediately. Wait until you are preparing to eat or freeze raspberries to rinse them clean with cool water.
+            To freeze, pat the rinsed berries dry with a clean towel and arrange them in a shallow pan covered with waxed
+            paper. Place in the freezer for an hour, then transfer the frozen berries to freezer-safe containers. You can
+            use fresh or frozen raspberries to make jams, syrups, or batches of raspberry lemonade or homemade wine.</item>
+
+        <item>Instead of seeds you should buy rhubarb plants, which won’t cost much because you need only a few. As a
+            general rule, allow only one plant per person in your household unless you have space to spare for these big plants,
+            which mature to 4 to 5 feet across.
+
+            Planting rhubarb is best done in spring, around your last frost date. Plant in moist, fertile soil in full
+            sun to partial afternoon shade, but note that rhubarb plants can be moved at other times of the year if soil
+            is kept packed around their roots. Space plants 4 to 5 feet apart, or use them as a focal points dotted around
+            your garden’s boundary. Enrich planting holes generously with compost as well as a standard application of a
+            balanced organic fertilizer when planting rhubarb.
+
+            In late winter, rake up and compost old mulch and plant debris from your rhubarb patch, and scatter a balanced
+            organic fertilizer over the soil. Top the site off with a thick organic mulch that will deter weeds until the
+            plants leaf out. Pruned tops from large ornamental grasses are seasonally available and useful for this purpose.
+            In late spring, after the plants show vigorous growth, watch for the emergence of huge flower clusters, and cut
+            them off to keep plants from expending energy producing flowers and unwanted seeds. A year after planting, harvest
+            two to three rhubarb stalks per plant weekly in late spring by twisting them away from the base. In subsequent seasons
+            , harvest all the stalks you want for six weeks in late spring, and then allow the plants to grow freely.
+
+            In many years, rhubarb plants may struggle through summer hot spells to the point of near collapse, and then produce
+            lovely new stems in late summer and fall. Late summer rhubarb is infinitely edible.
+
+            After harvesting, top off stalks to remove rhubarb leaves. Cut the rhubarb stalks into uniform length, and store
+            in plastic bags in the refrigerator. Before cooking, remove long strings as you would from celery.</item>
+
+
+        <item>Keep shallots carefully weeded, and drench plants with a liquid organic fertilizer when they are 12 inches tall.
+            Shallot plants naturally splay out as they approach maturity, as each plant will have divided into several separate
+            plantlets. Shallots grown from cloves may produce a dozen or more small bulbs, while seed-sown varieties typically
+            produce three perfect shallots per plant.Begin harvesting shallots when the tops are actively dying back, which is
+            usually late summer. Loosen the soil around the plants with a digging fork, pull up the plants and shake off the soil.
+
+            After harvesting shallots, cure the plants in a warm, well-ventilated place for a week, and then trim back the tops
+            to 4 inches, and clip off the roots. Continue curing for two more weeks before trimming again and cleaning up for storage.
+            Store cured shallots indoors, in a cool, dry place.</item>
+
+        <item>Keep weeds under control until developing sorghu plants are big enough to dominate their space. Six weeks
+            after planting, drench sorghum with a high-nitrogen liquid fertilizer to invigorate new growth. Many grain
+            sorghum varieties grow to only 5 feet tall, but sweet sorghum and broom corn plants can top 8 feet.Like corn,
+            grains of sorghum go through an immature “milk” stage when a pierced kernel will bleed a milk-like juice.
+            Sweet sorghum is harvested about two weeks after the milk stage by cutting off the canes at ground level,
+            stripping off the leaves, and setting aside the green canes. The ground, pressed canes yield a sweet, light
+            green juice that is then cooked into sorghum syrup. The barely-mature seeds can be fed to animals, or cooked
+            and eaten like other whole grains.
+
+            Grain sorghum and broom corn are harvested later, after the seeds are fully mature, with hard glossy seed coats.
+            Harvest grain sorghum by cutting off the seed clusters with a few inches of stalk attached, and dry them in a warm,
+            well-ventilated place for at least a week. Roll the dried seed heads over a hardware cloth screen to free the seeds,
+            and then winnow out plant debris and store your processed harvest in the freezer.
+
+            When the seeds of broom corn are hard and the plants begin to fail, cut stalks as long as you want them for
+            decorating or crafting purposes. Allow the stalks to dry in small bunches.</item>
+
+        <item>Allow seedlings of garden sorrel or French sorrel a full season to establish themselves in the garden.
+            Remove weeds that crowd your growing sorrel plants.
+            Except for the ‘Profusion’ variety, sorrel plants send up flowering spikes which eventually adorn themselves with
+            thousands of dangling flat seeds. Clip off the seed heads while they are still green, because sorrel can
+            become weedy in many climates. Sorrel is closely related to the weed called yellow dock (R. crispus) and
+            shares its talent for reseeding.Sorrel is usually eaten raw in salads or on sandwiches, or cooked into
+            creamy sorrel soup. In any dish, a little sorrel goes a long way. Only one or two leaves, slipped into a
+            sandwich or sliced into thin ribbons and tossed into a salad, are plenty. The citrusy, sour tang of sorrel
+            leaves make them a great accent herb for Thai-inspired dishes. If you are hooked on sorrel soup, you can
+            steam sorrel leaves and form them into cigar-shaped rolls before freezing them.</item>
+
+       <item>Prepare the planting bed by loosening the soil at least 10 inches deep. Thoroughly mix in compost along
+           with alfalfa meal, soybean meal or another high-nitrogen organic fertilizer (follow label directions).
+           Sow seeds a half-inch deep and 2 inches apart, in rows spaced at least 8 inches apart. As the plants grow,
+           gradually thin them so the leaves of neighboring plants barely overlap.Beginning about six weeks after planting,
+           pinch off individual leaves as you need them in the kitchen, leaving the central rosette intact.
+
+            In spring, long, warm days cause spinach to “bolt” (flower and produce seeds). Unless you plan to save seeds,
+           pull up the plants when you notice them developing a tall central stem. Thoroughly clean, then steam-blanch
+           (which limits their uptake of water and fixes enzymes) and freeze bumper crops.</item>
+
+        <item>Growing stevia is easy in well-drained beds or large containers, and the leaves can be dried for winter
+            use like any other herb. Stevia grows best in warm conditions similar to those preferred by basil. Plants
+            grown in warm climates will grow to 24 inches tall and wide. Where summers are cool, expect stevia plants
+            to grow up to 16 inches. Grow three to five plants for a year’s supply of dried stevia leaves.
+
+            Stevia can be started from seed indoors in late winter, but it’s best to grow it from rooted cuttings.
+            Germination of stevia seeds tends to be spotty, so keep seed-sown plants under bright lights until the
+            weather warms in spring. Look for stevia plants in the herbs section at garden centers, or locate mail-order
+            suppliers using our Seed and Plant Finder.
+
+            Choose a well-drained site, and set out the plants 2 feet apart after your last frost. Be sure to choose an
+            accessible spot, because you will need to gather stems often. Where summers are extremely hot, stevia benefits
+            from slight afternoon shade. Elsewhere, grow stevia in full sun.
+
+
+            Left unpruned, stevia will grow into a lanky, upright plant that produces tiny white flowers in late summer.
+            To maximize leaf production, you must trim back the plants several times to induce branching, first when plants
+            are about 8 inches tall, and again in early summer. You can use the leaves from the pinched-back stem tips, or
+            root them in moist potting soil to increase your supply of stevia plants.In most areas, you can harvest stevia in
+            midsummer by cutting back the plants by half their size, and again in early fall when new growth slows to a
+            standstill. Stevia can be dried in bunches like other herbs, but you will get better quality by drying it in a
+            dehydrator or a 150-degree- Fahrenheit oven until crisp. Store dried stevia leaves in an airtight container in a
+            cool, dark place. Wait until you’re ready to use stevia leaves to crush them.</item>
+
+
+         <item>Following spring planting, pick off flowers that form on June-bearing varieties their first season. With
+                ever-bearing varieties (especially alpines), pinching off the first flowers can lead to better production of
+                later-ripening, more intensely flavored fruits. With vigorous varieties, pinch off about half of the runners
+                to help the mother plants concentrate on the following year’s crop.
+
+            If you don’t need more plants, removing all runners from ever-bearing varieties will increase the production of big, juicy berries.
+
+            Renovate beds of June-bearing strawberries in summer, after the fruiting season has ended. Pull weeds, and thin
+             plants to 6 inches apart. Mow or cut back old leaves 4 inches from the ground and distribute a light application
+             of a balanced organic fertilizer between the plants. Top the renovated bed with a half-inch of weed-free compost
+             or fertile garden soil. Handled this way, a planting of 25 June-bearing strawberry plants grown in a 30-square-foot
+             bed will produce about 25 quarts (close to 30 pounds) of strawberries annually for three to four years.
+
+            Most strawberries produce runners, which can be trained to take root in promising places. Lift and move wanderers
+             in late summer or first thing in spring. Varieties that do not produce runners can be divided and replanted, preferably
+             in early spring.Expect some flavor variation each season. Cool, wet springs lead to soft, watery berries, while plenty
+             of warm sun brings about firmer, sweeter fruits.
+
+            Pick strawberries with a short stub of green stem attached. Harvest in the cool of the morning and refrigerate right away.
+             Wait until just before eating or preserving strawberries to wash them under cool running water and remove their green caps.
+             Preserve berries within three days for optimal flavor and color.</item>
+
+        <item>Most summer grain crops require close monitoring as the seeds approach ripeness. Tap brown buckwheat seed
+            clusters to see whether any black mature seeds fall free. Corn and pearl millet should be left on the plants
+            to dry as long as dry weather allows. With sunflowers, eager visits by birds will be an indicator that the
+            seeds are ripe. When any grain crop is almost ripe and a prolonged spell of rainy weather is in the forecast,
+            the best strategy is to harvest the crop and allow it to dry in a sheltered, well-ventilated place. Use a fan
+            if necessary. Summer grains are tough, resilient plants, but an extended period of rain that leads to moldy seeds
+            is the worst thing that can happen to any homestead grain.
+
+            Harvested grains should be stored in rodent-proof containers, such as garbage cans with secure lids. Store corn
+            ears intact, and wait until just before cracking or milling to twist off the kernels.
+
+            Collect the large seeds that fall from dry sunflower heads and set them aside for snacking. Chickens will
+            appreciate the diversion of plucking the smaller leftover seeds from dry sunflower heads.
+
+            Seeds collected from buckwheat, pearl millet and oats often contain bits of plant material (chaff) that
+            should be winnowed out before storing. Place the seeds to be cleaned in a large bag or pillowcase, and
+            crush the seeds with your hands. Remove the chaff by passing the seeds back and forth between two containers
+            while standing near a fan outdoors. If using an unheated basement or outbuilding for storage, rotate grains
+            into clean containers monthly. This is the best way to spot pest or moisture problems early.</item>
+
+       <item>Summer squash produce male flowers on bare stems, while female flowers — usually preceded by the males
+           — show a tiny squash at their base. You can improve yields in small plantings (fewer than five plants) by
+           using a small paintbrush to spread pollen from male to female flowers, supplementing insect pollination.Summer
+           squash blossoms are edible, and you can harvest fruits from baby-sized up until they toughen with age.
+           Harvest at least twice a week, using a sharp knife to cut fruits (leave a small stub of stem attached).
+           Promptly wash fruits in cool water and store in the refrigerator. For long-term storage, freeze or dry
+           blanched pieces of summer squash.</item>
+
+       <item>Once an ear feels plump and full when you squeeze it, pull back the shuck near the tip and pierce a
+           kernel with your fingernail; it’s ready to harvest if the juice is milky.
+
+            Try to harvest sweet corn in the morning, when the ears are cool. Refrigerate them immediately or
+           put the corn in a cooler and layer it with ice. Sweet corn can be canned in a pressure canner, but most
+           people prefer the speed and convenience of freezing. Blanched corn off the cob takes up much less freezer
+           space compared to whole ears.</item>
+
+        <item>Begin checking the root size of fast-maturing varieties 90 days after planting. Sweet potatoes can
+            be left in the ground as long as the vines are still growing and nighttime temperatures are above 50
+            degrees Fahrenheit. One sign sweet potato plants are done growing is when the leaves and vines turn yellow.
+            Starting from the outside of the row, loosen the soil with a digging fork before pulling up the plants by
+            their crowns. Some sweet potato varieties develop a cluster of tubers right under the plants, but others
+            may set roots several feet from the main clump.
+
+            Before storing sweet potatoes, you will need to cure them, a process that creates a second skin that
+            is an incredibly effective seal. To cure sweet potatoes, gently arrange them in a single layer in a warm,
+            humid place where temperatures can be held at 80 degrees for seven to 10 days. In warm climates, a well-ventilated
+            outbuilding is ideal. In cooler climates, a bathroom or closet with a space heater makes a good curing place
+            (put a bucket of water in the room to increase humidity). Another option is to place jugs of hot water in a
+            large cooler with your tubers; add new hot water to the jugs daily to keep the space warm and humid.
+
+            After curing, choose damage-free sweet potatoes for long-term storage in a dry place where temperatures
+            will stay between 55 and 65 degrees. The flavor and nutritional content of sweet potatoes improves after
+            a couple of months of storage. If conditions are ideal, well-cured sweet potatoes will store for up to 10 months.</item>
+
+        <item>Twist off individual outer leaves and compost old leaves that have lost their glossy sheen. Three to
+            five leaves can be picked from mature plants at a time, but be sure to leave the growing crown intact.
+            Frequent picking helps to stimulate the production of new leaves. Rinse leaves with cool water immediately,
+            shake off the excess moisture, and store in plastic bags in the refrigerator for up to four days.
+
+            Excess chard is easy to blanch and freeze, just like spinach, and you can dry perfect leaves and use
+            the “flakes” to add color and nutrition to winter soups and stews. Chard stems are sometimes made into
+            fermented pickles, or you can pickle the stems and leaves together with a standard vinegar-sugar brine
+            before sealing the jars in a waterbath canner.</item>
+
+
+        <item>Tomato flavor declines at temperatures below 55 degrees, so never keep them in the refrigerator.
+            If kept in a warm place, fruits picked when they’re showing stripes or blushes of ripe color will continue
+            to ripen. Bumper crops can be preserved by canning, drying or freezing. Tomatoes don’t need to be blanched
+            before they are dried or frozen.
+
+            Tomato sauce, salsa, chutney and ketchup can be processed in a water bath canner or a pressure canner,
+            depending on acidity levels (always follow recipes when canning). You will need a pressure canner to can
+            tomato soup that includes other vegetables.</item>
+
+
+        <item>For the best flavor, harvest salad turnips when they are less than 2 inches in diameter. Store the greens
+            in plastic bags in the refrigerator or freezer. Store salad turnip roots that have had their tops trimmed back
+            to 1 inch in the refrigerator for up to several weeks.
+
+            With all-purpose turnips, you can harvest two to three outer leaves per plant every two weeks, and the roots
+            will continue to grow. Keep thinning plants and eating the greens, removing those plants that show no signs of
+            bulbing. Pull all-purpose turnips when they are more than 2 inches in diameter, and eat or keep the greens.
+            Mature turnips with their tops trimmed back to 1 inch will store for three months in plastic bags in the fridge.
+            You can also store unwashed, trimmed turnips in damp sand in a root cellar.
+
+            Pull rutabagas when the bulbs are larger than 3 inches in diameter, and immediately trim the tops back
+            to half an inch. You can keep your rutabagas refrigerated in plastic bags, or stow them in damp sand in a
+            root cellar for longer storage.</item>
+
+
+        <item>Oats and barley planted in late summer grow into lush, green plants that will regrow if cut back when
+            they are 2 feet tall. Use the greens as mulch, or feed them to animals or your compost pile. Allow wheat,
+            rye and their relatives to grow until late spring. To utilize them as mulch-producing cover crops, cut the
+            plants back to 3 inches when they are knee-high (first cutting), and make a second cutting two weeks later
+            before digging out the plants or turning them under.
+
+            With grains you plan to harvest for food, allow the plants to grow uncut. Harvest when the seed heads dry
+            to light brown but still show streaks of green. Use a scythe or heavy scissors to cut off the tops, leaving
+            about 12 inches of stem attached. Bind big handfuls into bundles (called sheaves) using string or rubber bands
+            . Hang your sheaves in a dry place, or arrange them in single layers on a drying table. Depending on weather
+            conditions, the grain will be dry enough to thresh in one to two weeks.
+
+            Of the many ways to thresh grain, one of the easiest is to knock the dried tops against the sides of a
+            clean barrel or deep bucket. You could also place the grain tops in a clean pillowcase and crunch them with
+            your hands. Next, winnow the grain by pouring it back and forth between broad bowls or pans in front of a fan,
+            which will blow away the chaff (seed husks and bits of stem).
+
+
+            Tiny insects often hide in harvested grain, but freezing easily kills them. If you can’t permanently store
+            your grain in a freezer, freeze it for a week and then store it in airtight containers in a cool, dry place.</item>
+
+
+       <item>Fruits are ripe if you cannot easily pierce the rind with your fingernail. Never rush to harvest winter
+           squash, though, because immature fruits won’t store well. Unless pests or freezing weather threaten them,
+           allow fruits to ripen until the vines begin to die back. Expect to harvest three to five squash per plant.
+           Use pruning shears to cut fruits from the vine, leaving 1 inch of stem attached. Clean away dirt with a soft,
+           damp cloth, and allow fruits to cure for two weeks in a spot that’s 70 to 80 degrees Fahrenheit. Store cured
+           squash in a cool, dry place, such as your basement, a cool closet or even under your bed. Check every two
+           weeks for signs of spoilage.</item>
+
+
+
+
+
+
+
+   </string-array>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
